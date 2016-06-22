@@ -7,4 +7,4 @@ function hex2string () {
     let "I += 2"
   done
 }
-hex2string $1
+hex2string $1 
