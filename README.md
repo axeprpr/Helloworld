@@ -1,3 +1,4 @@
 # helloworld
 ###Scripts For Daily Work
-#####```Hex2Str.sh``` is used to changed hex to string.
+#####```Hex2Str.sh``` is used to change hex to string.
+#####```.bash_profile``` is used to change user when login. 
