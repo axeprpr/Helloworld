@@ -11,3 +11,6 @@ case $user in
   3)sudo su - C;;
   *)return;;
 esac
+
+# The list won't appear again if we logout. you can run this command:
+# echo 'sudo su - username' >> .bash_logout
