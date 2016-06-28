@@ -7,3 +7,4 @@
 #####```SOAP.py``` simulates SOAP with python.
 #####```excels2sqls.py``` A GUI to transfer excel files to sqls.
 #####```smtp_email.py``` Short script to send email.
+#####```BasicBashCommand.md``` Basic bash commands.
