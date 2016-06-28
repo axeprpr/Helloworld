@@ -1,4 +1,4 @@
-#####BashBasicCommand.md
+#####BasicBashCommand.md
 Change the encoded mode for file.
 ```
 [gdt axe_bak ]$ file summary_marketing_customer.dat 
