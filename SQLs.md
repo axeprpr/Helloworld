@@ -3,7 +3,7 @@
 select a.constraint_name,a.COLUMN_NAME,b.CONSTRAINT_TYPE,b.table_name from user_cons_columns a,
 (select CONSTRAINT_NAME,CONSTRAINT_TYPE,table_name from user_constraints where table_name='table_name') b where a.constraint_name=b.CONSTRAINT_NAME;
 ```
-#####delete a table
+#####Delete a table
 ```
 declare
 CURSOR mycursor IS SELECT rowid FROM wow_data.EDM_MS_TEST_OUTPUT_STAGING  WHERE CDE_INSERT_DATE<sysdate-5 ORDER BY rowid;
