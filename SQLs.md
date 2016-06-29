@@ -22,3 +22,32 @@ CLOSE mycursor;
 END;
 /
 ```
+#####LatchFree
+```
+ select s.SID,
+    s.SERIAL#,
+    p.SPID,
+   s.MACHINE,
+    s.OSUSER,
+    s.PROGRAM,
+    s.USERNAME,
+    s.last_call_et,
+    a.SQL_ID,
+    s.LOGON_TIME,
+    a.SQL_TEXT,
+    a.SQL_FULLTEXT,
+    w.EVENT,
+    a.DISK_READS,
+    a.BUFFER_GETS
+  from v$process p, v$session s, v$sqlarea a, v$session_wait w
+ where p.ADDR = s.PADDR
+   and s.SQL_ID = a.sql_id
+   and s.sid = w.SID
+   and s.STATUS = 'ACTIVE'
+ order by s.last_call_et desc;
+ 
+ Select sid, p1raw, p2, p3, seconds_in_wait,wait_time, state 
+from   v$session_wait 
+where  event =’latch free’ 
+order by p2, p1raw;
+```
