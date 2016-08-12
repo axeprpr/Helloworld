@@ -9,3 +9,4 @@
 #####```excels2sqls.py``` A GUI to transfer excel files to sqls.
 #####```smtp_email.py``` Short script to send email.
 #####```ip_vlsm2bcast.sh``` Reckon bcast when ip&vlsm are known.
+#####```sep.sh``` a nice function which used to write duplicate characters in shell.
