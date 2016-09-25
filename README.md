@@ -11,5 +11,4 @@
 #####```ip_vlsm2bcast.sh``` Reckon bcast when ip&vlsm are known.
 #####```sep.sh``` a nice function which used to write duplicate characters in shell.
 #####```check_log.py``` log extract & load.
->hello
->hello
+
