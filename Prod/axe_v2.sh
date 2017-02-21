@@ -1,5 +1,5 @@
 #!/usr/bin/expect
-echo > /Users/axe/.ssh/known_hosts
+spawn echo > /Users/axe/.ssh/known_hosts
 set timeout 30
 spawn ssh -p [lindex $argv 0] [lindex $argv 1]@[lindex $argv 2]
 expect {
