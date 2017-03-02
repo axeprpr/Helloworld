@@ -1,6 +1,6 @@
 # config smb
 #SMB_DIR="/var/lib/nova/datadisk/sdb/smbshare"
-SMB_DIR=$DATADISK_DIR/smbshare
+#SMB_DIR=$DATADISK_DIR/smbshare
 SMB_CFG_FILE_SECTION="smb"
 SMB_CFG_FILE="/etc/samba/smb.conf"
 
