@@ -1,0 +1,1142 @@
+2018/04/13 23:17:07 [1;34m[I] [proxy_manager.go:298] proxy removed: [][0m
+2018/04/13 23:17:07 [1;34m[I] [proxy_manager.go:308] proxy added: [host100 vps80][0m
+2018/04/13 23:17:07 [1;34m[I] [proxy_manager.go:331] visitor removed: [][0m
+2018/04/13 23:17:07 [1;34m[I] [proxy_manager.go:340] visitor added: [][0m
+2018/04/13 23:17:07 [1;34m[I] [control.go:240] [1b2a1515bf0e8caa] login to server success, get run id [1b2a1515bf0e8caa], server udp port [0][0m
+2018/04/13 23:17:07 [1;34m[I] [control.go:165] [1b2a1515bf0e8caa] [host100] start proxy success[0m
+2018/04/13 23:17:07 [1;34m[I] [control.go:165] [1b2a1515bf0e8caa] [vps80] start proxy success[0m
+2018/04/14 04:00:37 [1;31m[E] [control.go:148] [1b2a1515bf0e8caa] work connection closed, broken pipe[0m
+2018/04/14 04:00:37 [1;33m[W] [control.go:281] [1b2a1515bf0e8caa] read error: broken pipe[0m
+2018/04/14 04:00:37 [1;34m[I] [control.go:301] [1b2a1515bf0e8caa] control writer is closing[0m
+2018/04/14 04:00:37 [1;34m[I] [control.go:399] [1b2a1515bf0e8caa] try to reconnect to server...[0m
+2018/04/14 04:00:40 [1;33m[W] [control.go:402] [1b2a1515bf0e8caa] reconnect to server error: dial tcp 47.98.226.236:7000: connect: no route to host[0m
+2018/04/14 04:00:41 [1;34m[I] [control.go:399] [1b2a1515bf0e8caa] try to reconnect to server...[0m
+2018/04/14 04:00:43 [1;33m[W] [control.go:402] [1b2a1515bf0e8caa] reconnect to server error: dial tcp 47.98.226.236:7000: connect: no route to host[0m
+2018/04/14 04:00:45 [1;34m[I] [control.go:399] [1b2a1515bf0e8caa] try to reconnect to server...[0m
+2018/04/14 04:00:46 [1;33m[W] [control.go:402] [1b2a1515bf0e8caa] reconnect to server error: dial tcp 47.98.226.236:7000: connect: no route to host[0m
+2018/04/14 04:00:50 [1;34m[I] [control.go:399] [1b2a1515bf0e8caa] try to reconnect to server...[0m
+2018/04/14 04:00:53 [1;33m[W] [control.go:402] [1b2a1515bf0e8caa] reconnect to server error: dial tcp 47.98.226.236:7000: connect: no route to host[0m
+2018/04/14 04:01:01 [1;34m[I] [control.go:399] [1b2a1515bf0e8caa] try to reconnect to server...[0m
+2018/04/14 04:01:02 [1;33m[W] [control.go:402] [1b2a1515bf0e8caa] reconnect to server error: dial tcp 47.98.226.236:7000: connect: no route to host[0m
+2018/04/14 04:01:18 [1;34m[I] [control.go:399] [1b2a1515bf0e8caa] try to reconnect to server...[0m
+2018/04/14 04:01:21 [1;33m[W] [control.go:402] [1b2a1515bf0e8caa] reconnect to server error: dial tcp 47.98.226.236:7000: connect: no route to host[0m
+2018/04/14 04:01:41 [1;34m[I] [control.go:399] [1b2a1515bf0e8caa] try to reconnect to server...[0m
+2018/04/14 04:01:44 [1;33m[W] [control.go:402] [1b2a1515bf0e8caa] reconnect to server error: dial tcp 47.98.226.236:7000: connect: no route to host[0m
+2018/04/14 04:02:04 [1;34m[I] [control.go:399] [1b2a1515bf0e8caa] try to reconnect to server...[0m
+2018/04/14 04:02:35 [1;34m[I] [control.go:240] [1b2a1515bf0e8caa] login to server success, get run id [1b2a1515bf0e8caa], server udp port [0][0m
+2018/04/14 04:02:35 [1;34m[I] [control.go:165] [1b2a1515bf0e8caa] [host100] start proxy success[0m
+2018/04/14 04:02:35 [1;34m[I] [control.go:165] [1b2a1515bf0e8caa] [vps80] start proxy success[0m
+2018/04/14 12:09:45 [1;34m[I] [proxy_manager.go:298] proxy removed: [][0m
+2018/04/14 12:09:45 [1;34m[I] [proxy_manager.go:308] proxy added: [host100 vps80][0m
+2018/04/14 12:09:45 [1;34m[I] [proxy_manager.go:331] visitor removed: [][0m
+2018/04/14 12:09:45 [1;34m[I] [proxy_manager.go:340] visitor added: [][0m
+2018/04/14 12:09:45 [1;34m[I] [control.go:240] [a53cb6586b4990e7] login to server success, get run id [a53cb6586b4990e7], server udp port [0][0m
+2018/04/14 12:09:45 [1;34m[I] [control.go:165] [a53cb6586b4990e7] [host100] start proxy success[0m
+2018/04/14 12:09:45 [1;34m[I] [control.go:165] [a53cb6586b4990e7] [vps80] start proxy success[0m
+2018/04/14 22:51:26 [1;34m[I] [proxy_manager.go:298] proxy removed: [][0m
+2018/04/14 22:51:26 [1;34m[I] [proxy_manager.go:308] proxy added: [host100 vps80rdp vps80hsr][0m
+2018/04/14 22:51:26 [1;34m[I] [proxy_manager.go:331] visitor removed: [][0m
+2018/04/14 22:51:26 [1;34m[I] [proxy_manager.go:340] visitor added: [][0m
+2018/04/14 22:51:26 [1;34m[I] [control.go:240] [de5014727968d1a6] login to server success, get run id [de5014727968d1a6], server udp port [0][0m
+2018/04/14 22:51:26 [1;34m[I] [control.go:165] [de5014727968d1a6] [host100] start proxy success[0m
+2018/04/14 22:51:26 [1;34m[I] [control.go:165] [de5014727968d1a6] [vps80rdp] start proxy success[0m
+2018/04/14 22:51:26 [1;34m[I] [control.go:165] [de5014727968d1a6] [vps80hsr] start proxy success[0m
+2018/04/14 23:09:44 [1;31m[E] [proxy.go:438] [vps80hsr] connect to local service [192.222.1.80:5702] error: dial tcp 192.222.1.80:5702: connect: connection refused[0m
+2018/04/14 23:09:46 [1;31m[E] [proxy.go:438] [vps80rdp] connect to local service [192.222.1.80:3389] error: dial tcp 192.222.1.80:3389: connect: connection refused[0m
+2018/04/14 23:09:47 [1;31m[E] [proxy.go:438] [vps80hsr] connect to local service [192.222.1.80:5702] error: dial tcp 192.222.1.80:5702: connect: connection refused[0m
+2018/04/14 23:09:48 [1;31m[E] [proxy.go:438] [vps80rdp] connect to local service [192.222.1.80:3389] error: dial tcp 192.222.1.80:3389: connect: connection refused[0m
+2018/04/14 23:09:49 [1;31m[E] [proxy.go:438] [vps80rdp] connect to local service [192.222.1.80:3389] error: dial tcp 192.222.1.80:3389: connect: connection refused[0m
+2018/04/14 23:09:50 [1;31m[E] [proxy.go:438] [vps80rdp] connect to local service [192.222.1.80:3389] error: dial tcp 192.222.1.80:3389: connect: connection refused[0m
+2018/04/14 23:09:51 [1;31m[E] [proxy.go:438] [vps80rdp] connect to local service [192.222.1.80:3389] error: dial tcp 192.222.1.80:3389: connect: connection refused[0m
+2018/04/14 23:09:52 [1;31m[E] [proxy.go:438] [vps80rdp] connect to local service [192.222.1.80:3389] error: dial tcp 192.222.1.80:3389: connect: connection refused[0m
+2018/04/14 23:09:54 [1;31m[E] [proxy.go:438] [vps80rdp] connect to local service [192.222.1.80:3389] error: dial tcp 192.222.1.80:3389: connect: connection refused[0m
+2018/04/14 23:09:55 [1;31m[E] [proxy.go:438] [vps80rdp] connect to local service [192.222.1.80:3389] error: dial tcp 192.222.1.80:3389: connect: connection refused[0m
+2018/04/14 23:09:56 [1;31m[E] [proxy.go:438] [vps80rdp] connect to local service [192.222.1.80:3389] error: dial tcp 192.222.1.80:3389: connect: connection refused[0m
+2018/04/14 23:09:57 [1;31m[E] [proxy.go:438] [vps80rdp] connect to local service [192.222.1.80:3389] error: dial tcp 192.222.1.80:3389: connect: connection refused[0m
+2018/04/14 23:09:59 [1;31m[E] [proxy.go:438] [vps80rdp] connect to local service [192.222.1.80:3389] error: dial tcp 192.222.1.80:3389: connect: connection refused[0m
+2018/04/14 23:26:46 [1;34m[I] [proxy_manager.go:298] proxy removed: [][0m
+2018/04/14 23:26:46 [1;34m[I] [proxy_manager.go:308] proxy added: [host100 vps80rdp vps80hsr][0m
+2018/04/14 23:26:46 [1;34m[I] [proxy_manager.go:331] visitor removed: [][0m
+2018/04/14 23:26:46 [1;34m[I] [proxy_manager.go:340] visitor added: [][0m
+2018/04/14 23:26:46 [1;34m[I] [control.go:240] [b97d6dfb17ada7f2] login to server success, get run id [b97d6dfb17ada7f2], server udp port [0][0m
+2018/04/14 23:26:47 [1;34m[I] [control.go:165] [b97d6dfb17ada7f2] [host100] start proxy success[0m
+2018/04/14 23:26:47 [1;34m[I] [control.go:165] [b97d6dfb17ada7f2] [vps80rdp] start proxy success[0m
+2018/04/14 23:26:47 [1;34m[I] [control.go:165] [b97d6dfb17ada7f2] [vps80hsr] start proxy success[0m
+2018/04/14 23:48:07 [1;34m[I] [proxy_manager.go:298] proxy removed: [][0m
+2018/04/14 23:48:07 [1;34m[I] [proxy_manager.go:308] proxy added: [vps80rdp vps80hsr host100][0m
+2018/04/14 23:48:07 [1;34m[I] [proxy_manager.go:331] visitor removed: [][0m
+2018/04/14 23:48:07 [1;34m[I] [proxy_manager.go:340] visitor added: [][0m
+2018/04/14 23:48:07 [1;34m[I] [control.go:240] [ca870d79db90032d] login to server success, get run id [ca870d79db90032d], server udp port [0][0m
+2018/04/14 23:48:07 [1;34m[I] [control.go:165] [ca870d79db90032d] [host100] start proxy success[0m
+2018/04/14 23:48:07 [1;34m[I] [control.go:165] [ca870d79db90032d] [vps80rdp] start proxy success[0m
+2018/04/14 23:48:07 [1;34m[I] [control.go:165] [ca870d79db90032d] [vps80hsr] start proxy success[0m
+2018/04/15 04:00:37 [1;31m[E] [control.go:148] [ca870d79db90032d] work connection closed, broken pipe[0m
+2018/04/15 04:00:37 [1;33m[W] [control.go:281] [ca870d79db90032d] read error: broken pipe[0m
+2018/04/15 04:00:37 [1;34m[I] [control.go:301] [ca870d79db90032d] control writer is closing[0m
+2018/04/15 04:00:37 [1;34m[I] [control.go:399] [ca870d79db90032d] try to reconnect to server...[0m
+2018/04/15 04:00:47 [1;33m[W] [control.go:402] [ca870d79db90032d] reconnect to server error: dial tcp 47.98.226.236:7000: connect: no route to host[0m
+2018/04/15 04:00:48 [1;34m[I] [control.go:399] [ca870d79db90032d] try to reconnect to server...[0m
+2018/04/15 04:00:51 [1;33m[W] [control.go:402] [ca870d79db90032d] reconnect to server error: dial tcp 47.98.226.236:7000: connect: no route to host[0m
+2018/04/15 04:00:53 [1;34m[I] [control.go:399] [ca870d79db90032d] try to reconnect to server...[0m
+2018/04/15 04:00:54 [1;33m[W] [control.go:402] [ca870d79db90032d] reconnect to server error: dial tcp 47.98.226.236:7000: connect: no route to host[0m
+2018/04/15 04:00:58 [1;34m[I] [control.go:399] [ca870d79db90032d] try to reconnect to server...[0m
+2018/04/15 04:01:01 [1;33m[W] [control.go:402] [ca870d79db90032d] reconnect to server error: dial tcp 47.98.226.236:7000: connect: no route to host[0m
+2018/04/15 04:01:09 [1;34m[I] [control.go:399] [ca870d79db90032d] try to reconnect to server...[0m
+2018/04/15 04:01:12 [1;33m[W] [control.go:402] [ca870d79db90032d] reconnect to server error: dial tcp 47.98.226.236:7000: connect: no route to host[0m
+2018/04/15 04:01:28 [1;34m[I] [control.go:399] [ca870d79db90032d] try to reconnect to server...[0m
+2018/04/15 04:01:31 [1;33m[W] [control.go:402] [ca870d79db90032d] reconnect to server error: dial tcp 47.98.226.236:7000: connect: no route to host[0m
+2018/04/15 04:01:51 [1;34m[I] [control.go:399] [ca870d79db90032d] try to reconnect to server...[0m
+2018/04/15 04:02:54 [1;34m[I] [control.go:240] [ca870d79db90032d] login to server success, get run id [ca870d79db90032d], server udp port [0][0m
+2018/04/15 04:02:54 [1;34m[I] [control.go:165] [ca870d79db90032d] [vps80hsr] start proxy success[0m
+2018/04/15 04:02:54 [1;34m[I] [control.go:165] [ca870d79db90032d] [host100] start proxy success[0m
+2018/04/15 04:02:54 [1;34m[I] [control.go:165] [ca870d79db90032d] [vps80rdp] start proxy success[0m
+2018/04/15 13:49:36 [1;34m[I] [proxy_manager.go:298] proxy removed: [][0m
+2018/04/15 13:49:36 [1;34m[I] [proxy_manager.go:308] proxy added: [vps80hsr5701 vps80hsr5702 host100 vps80rdp][0m
+2018/04/15 13:49:36 [1;34m[I] [proxy_manager.go:331] visitor removed: [][0m
+2018/04/15 13:49:36 [1;34m[I] [proxy_manager.go:340] visitor added: [][0m
+2018/04/15 13:49:36 [1;34m[I] [control.go:240] [de75005b81218b43] login to server success, get run id [de75005b81218b43], server udp port [0][0m
+2018/04/15 13:49:36 [1;34m[I] [control.go:165] [de75005b81218b43] [vps80rdp] start proxy success[0m
+2018/04/15 13:49:36 [1;34m[I] [control.go:165] [de75005b81218b43] [vps80hsr5701] start proxy success[0m
+2018/04/15 13:49:36 [1;34m[I] [control.go:165] [de75005b81218b43] [vps80hsr5702] start proxy success[0m
+2018/04/15 13:49:36 [1;34m[I] [control.go:165] [de75005b81218b43] [host100] start proxy success[0m
+2018/04/15 13:50:54 [1;31m[E] [proxy.go:438] [vps80hsr5701] connect to local service [192.222.1.80:5701] error: dial tcp 192.222.1.80:5701: connect: connection refused[0m
+2018/04/15 13:57:46 [1;34m[I] [proxy_manager.go:298] proxy removed: [][0m
+2018/04/15 13:57:46 [1;34m[I] [proxy_manager.go:308] proxy added: [host100 vps80rdp][0m
+2018/04/15 13:57:46 [1;34m[I] [proxy_manager.go:331] visitor removed: [][0m
+2018/04/15 13:57:46 [1;34m[I] [proxy_manager.go:340] visitor added: [][0m
+2018/04/15 13:57:46 [1;34m[I] [control.go:240] [178bc21cf1cbdbad] login to server success, get run id [178bc21cf1cbdbad], server udp port [0][0m
+2018/04/15 13:57:46 [1;34m[I] [control.go:165] [178bc21cf1cbdbad] [host100] start proxy success[0m
+2018/04/15 13:57:46 [1;34m[I] [control.go:165] [178bc21cf1cbdbad] [vps80rdp] start proxy success[0m
+2018/04/15 17:46:09 [1;34m[I] [proxy_manager.go:298] proxy removed: [][0m
+2018/04/15 17:46:09 [1;34m[I] [proxy_manager.go:308] proxy added: [host100 vps80rdp vps192rdp][0m
+2018/04/15 17:46:09 [1;34m[I] [proxy_manager.go:331] visitor removed: [][0m
+2018/04/15 17:46:09 [1;34m[I] [proxy_manager.go:340] visitor added: [][0m
+2018/04/15 17:46:09 [1;34m[I] [control.go:240] [d5c7747ff77ee13b] login to server success, get run id [d5c7747ff77ee13b], server udp port [0][0m
+2018/04/15 17:46:09 [1;34m[I] [control.go:165] [d5c7747ff77ee13b] [host100] start proxy success[0m
+2018/04/15 17:46:09 [1;34m[I] [control.go:165] [d5c7747ff77ee13b] [vps80rdp] start proxy success[0m
+2018/04/15 17:46:09 [1;34m[I] [control.go:165] [d5c7747ff77ee13b] [vps192rdp] start proxy success[0m
+2018/04/16 04:00:39 [1;33m[W] [control.go:281] [d5c7747ff77ee13b] read error: broken pipe[0m
+2018/04/16 04:00:39 [1;34m[I] [control.go:301] [d5c7747ff77ee13b] control writer is closing[0m
+2018/04/16 04:00:39 [1;34m[I] [control.go:399] [d5c7747ff77ee13b] try to reconnect to server...[0m
+2018/04/16 04:00:39 [1;31m[E] [control.go:148] [d5c7747ff77ee13b] work connection closed, broken pipe[0m
+2018/04/16 04:00:39 [1;33m[W] [control.go:402] [d5c7747ff77ee13b] reconnect to server error: dial tcp 47.98.226.236:7000: connect: no route to host[0m
+2018/04/16 04:00:40 [1;34m[I] [control.go:399] [d5c7747ff77ee13b] try to reconnect to server...[0m
+2018/04/16 04:00:43 [1;33m[W] [control.go:402] [d5c7747ff77ee13b] reconnect to server error: dial tcp 47.98.226.236:7000: connect: no route to host[0m
+2018/04/16 04:00:45 [1;34m[I] [control.go:399] [d5c7747ff77ee13b] try to reconnect to server...[0m
+2018/04/16 04:00:46 [1;33m[W] [control.go:402] [d5c7747ff77ee13b] reconnect to server error: dial tcp 47.98.226.236:7000: connect: no route to host[0m
+2018/04/16 04:00:50 [1;34m[I] [control.go:399] [d5c7747ff77ee13b] try to reconnect to server...[0m
+2018/04/16 04:00:53 [1;33m[W] [control.go:402] [d5c7747ff77ee13b] reconnect to server error: dial tcp 47.98.226.236:7000: connect: no route to host[0m
+2018/04/16 04:01:01 [1;34m[I] [control.go:399] [d5c7747ff77ee13b] try to reconnect to server...[0m
+2018/04/16 04:01:04 [1;33m[W] [control.go:402] [d5c7747ff77ee13b] reconnect to server error: dial tcp 47.98.226.236:7000: connect: no route to host[0m
+2018/04/16 04:01:20 [1;34m[I] [control.go:399] [d5c7747ff77ee13b] try to reconnect to server...[0m
+2018/04/16 04:01:21 [1;33m[W] [control.go:402] [d5c7747ff77ee13b] reconnect to server error: dial tcp 47.98.226.236:7000: connect: no route to host[0m
+2018/04/16 04:01:41 [1;34m[I] [control.go:399] [d5c7747ff77ee13b] try to reconnect to server...[0m
+2018/04/16 04:01:44 [1;33m[W] [control.go:402] [d5c7747ff77ee13b] reconnect to server error: dial tcp 47.98.226.236:7000: connect: no route to host[0m
+2018/04/16 04:02:04 [1;34m[I] [control.go:399] [d5c7747ff77ee13b] try to reconnect to server...[0m
+2018/04/16 04:02:35 [1;34m[I] [control.go:240] [d5c7747ff77ee13b] login to server success, get run id [d5c7747ff77ee13b], server udp port [0][0m
+2018/04/16 04:02:35 [1;34m[I] [control.go:165] [d5c7747ff77ee13b] [host100] start proxy success[0m
+2018/04/16 04:02:35 [1;34m[I] [control.go:165] [d5c7747ff77ee13b] [vps80rdp] start proxy success[0m
+2018/04/16 04:02:35 [1;34m[I] [control.go:165] [d5c7747ff77ee13b] [vps192rdp] start proxy success[0m
+2018/04/16 21:48:54 [1;34m[I] [proxy_manager.go:298] proxy removed: [][0m
+2018/04/16 21:48:54 [1;34m[I] [proxy_manager.go:308] proxy added: [host100 host101 vps80rdp vps192rdp][0m
+2018/04/16 21:48:54 [1;34m[I] [proxy_manager.go:331] visitor removed: [][0m
+2018/04/16 21:48:54 [1;34m[I] [proxy_manager.go:340] visitor added: [][0m
+2018/04/16 21:48:55 [1;34m[I] [control.go:240] [46854ba52e5d38d2] login to server success, get run id [46854ba52e5d38d2], server udp port [0][0m
+2018/04/16 21:48:55 [1;34m[I] [control.go:165] [46854ba52e5d38d2] [vps192rdp] start proxy success[0m
+2018/04/16 21:48:55 [1;34m[I] [control.go:165] [46854ba52e5d38d2] [host100] start proxy success[0m
+2018/04/16 21:48:55 [1;34m[I] [control.go:165] [46854ba52e5d38d2] [host101] start proxy success[0m
+2018/04/16 21:48:55 [1;34m[I] [control.go:165] [46854ba52e5d38d2] [vps80rdp] start proxy success[0m
+Usage: 
+    frpc [-c config_file] [-L log_file] [--log-level=<log_level>] [--server-addr=<server_addr>]
+    frpc reload [-c config_file]
+    frpc status [-c config_file]
+    frpc -h | --help
+    frpc -v | --version
+2018/04/16 21:57:44 [1;34m[I] [proxy_manager.go:298] proxy removed: [][0m
+2018/04/16 21:57:44 [1;34m[I] [proxy_manager.go:308] proxy added: [host101 host100 vps80rdp vps192rdp][0m
+2018/04/16 21:57:44 [1;34m[I] [proxy_manager.go:331] visitor removed: [][0m
+2018/04/16 21:57:44 [1;34m[I] [proxy_manager.go:340] visitor added: [][0m
+2018/04/16 21:57:44 [1;34m[I] [control.go:240] [a3ddd3a233c357cc] login to server success, get run id [a3ddd3a233c357cc], server udp port [0][0m
+2018/04/16 21:57:44 [1;33m[W] [control.go:163] [a3ddd3a233c357cc] [host101] start error: proxy name [host101] is already in use[0m
+2018/04/16 21:57:44 [1;33m[W] [control.go:163] [a3ddd3a233c357cc] [host100] start error: proxy name [host100] is already in use[0m
+2018/04/16 21:57:44 [1;33m[W] [control.go:163] [a3ddd3a233c357cc] [vps80rdp] start error: proxy name [vps80rdp] is already in use[0m
+2018/04/16 21:57:44 [1;33m[W] [control.go:163] [a3ddd3a233c357cc] [vps192rdp] start error: proxy name [vps192rdp] is already in use[0m
+2018/04/16 21:58:44 [1;33m[W] [control.go:163] [a3ddd3a233c357cc] [host101] start error: proxy name [host101] is already in use[0m
+2018/04/16 21:58:44 [1;33m[W] [control.go:163] [a3ddd3a233c357cc] [host100] start error: proxy name [host100] is already in use[0m
+2018/04/16 21:58:44 [1;33m[W] [control.go:163] [a3ddd3a233c357cc] [vps80rdp] start error: proxy name [vps80rdp] is already in use[0m
+2018/04/16 21:58:44 [1;33m[W] [control.go:163] [a3ddd3a233c357cc] [vps192rdp] start error: proxy name [vps192rdp] is already in use[0m
+Usage: 
+    frpc [-c config_file] [-L log_file] [--log-level=<log_level>] [--server-addr=<server_addr>]
+    frpc reload [-c config_file]
+    frpc status [-c config_file]
+    frpc -h | --help
+    frpc -v | --version
+2018/04/16 22:02:08 [1;34m[I] [proxy_manager.go:298] proxy removed: [][0m
+2018/04/16 22:02:08 [1;34m[I] [proxy_manager.go:308] proxy added: [vps80rdp][0m
+2018/04/16 22:02:08 [1;34m[I] [proxy_manager.go:331] visitor removed: [][0m
+2018/04/16 22:02:08 [1;34m[I] [proxy_manager.go:340] visitor added: [][0m
+2018/04/16 22:02:08 [1;34m[I] [control.go:240] [14d57b481589f163] login to server success, get run id [14d57b481589f163], server udp port [0][0m
+2018/04/16 22:02:08 [1;33m[W] [control.go:163] [14d57b481589f163] [vps80rdp] start error: proxy name [vps80rdp] is already in use[0m
+2018/04/16 22:03:08 [1;33m[W] [control.go:163] [14d57b481589f163] [vps80rdp] start error: proxy name [vps80rdp] is already in use[0m
+2018/04/16 22:04:08 [1;33m[W] [control.go:163] [14d57b481589f163] [vps80rdp] start error: proxy name [vps80rdp] is already in use[0m
+2018/04/16 22:09:22 [1;34m[I] [proxy_manager.go:298] proxy removed: [][0m
+2018/04/16 22:09:22 [1;34m[I] [proxy_manager.go:308] proxy added: [vps180rdp][0m
+2018/04/16 22:09:22 [1;34m[I] [proxy_manager.go:331] visitor removed: [][0m
+2018/04/16 22:09:22 [1;34m[I] [proxy_manager.go:340] visitor added: [][0m
+2018/04/16 22:09:22 [1;34m[I] [control.go:240] [6e83b5539a0b28da] login to server success, get run id [6e83b5539a0b28da], server udp port [0][0m
+2018/04/16 22:09:22 [1;34m[I] [control.go:165] [6e83b5539a0b28da] [vps180rdp] start proxy success[0m
+2018/04/16 22:10:24 [1;34m[I] [proxy_manager.go:298] proxy removed: [][0m
+2018/04/16 22:10:24 [1;34m[I] [proxy_manager.go:308] proxy added: [vps180rdp][0m
+2018/04/16 22:10:24 [1;34m[I] [proxy_manager.go:331] visitor removed: [][0m
+2018/04/16 22:10:24 [1;34m[I] [proxy_manager.go:340] visitor added: [][0m
+2018/04/16 22:10:24 [1;34m[I] [control.go:240] [b2d59b5a245a0fd2] login to server success, get run id [b2d59b5a245a0fd2], server udp port [0][0m
+2018/04/16 22:10:24 [1;33m[W] [control.go:163] [b2d59b5a245a0fd2] [vps180rdp] start error: port already used[0m
+2018/04/16 22:11:24 [1;33m[W] [control.go:163] [b2d59b5a245a0fd2] [vps180rdp] start error: port already used[0m
+2018/04/16 22:11:39 [1;34m[I] [proxy_manager.go:298] proxy removed: [][0m
+2018/04/16 22:11:39 [1;34m[I] [proxy_manager.go:308] proxy added: [vps180rdp][0m
+2018/04/16 22:11:39 [1;34m[I] [proxy_manager.go:331] visitor removed: [][0m
+2018/04/16 22:11:39 [1;34m[I] [proxy_manager.go:340] visitor added: [][0m
+2018/04/16 22:11:39 [1;34m[I] [control.go:240] [eb4f984652a17e2f] login to server success, get run id [eb4f984652a17e2f], server udp port [0][0m
+2018/04/16 22:11:39 [1;34m[I] [control.go:165] [eb4f984652a17e2f] [vps180rdp] start proxy success[0m
+2018/04/16 22:12:23 [1;34m[I] [proxy_manager.go:298] proxy removed: [][0m
+2018/04/16 22:12:23 [1;34m[I] [proxy_manager.go:308] proxy added: [vps180rdp][0m
+2018/04/16 22:12:23 [1;34m[I] [proxy_manager.go:331] visitor removed: [][0m
+2018/04/16 22:12:23 [1;34m[I] [proxy_manager.go:340] visitor added: [][0m
+2018/04/16 22:12:23 [1;34m[I] [control.go:240] [0e05943ca0a70bae] login to server success, get run id [0e05943ca0a70bae], server udp port [0][0m
+2018/04/16 22:12:23 [1;33m[W] [control.go:163] [0e05943ca0a70bae] [vps180rdp] start error: port already used[0m
+2018/04/16 22:13:23 [1;34m[I] [control.go:165] [0e05943ca0a70bae] [vps180rdp] start proxy success[0m
+2018/04/17 04:00:53 [1;31m[E] [control.go:148] [0e05943ca0a70bae] work connection closed, broken pipe[0m
+2018/04/17 04:00:53 [1;33m[W] [control.go:281] [0e05943ca0a70bae] read error: broken pipe[0m
+2018/04/17 04:00:53 [1;34m[I] [control.go:301] [0e05943ca0a70bae] control writer is closing[0m
+2018/04/17 04:00:53 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 04:00:56 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: no route to host[0m
+2018/04/17 04:00:57 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 04:00:59 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: no route to host[0m
+2018/04/17 04:01:01 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 04:01:02 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: no route to host[0m
+2018/04/17 04:01:06 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 04:01:09 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: no route to host[0m
+2018/04/17 04:01:17 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 04:01:20 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: no route to host[0m
+2018/04/17 04:01:36 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 04:01:39 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: no route to host[0m
+2018/04/17 04:01:59 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 04:02:30 [1;34m[I] [control.go:240] [0e05943ca0a70bae] login to server success, get run id [0e05943ca0a70bae], server udp port [0][0m
+2018/04/17 04:02:30 [1;34m[I] [control.go:165] [0e05943ca0a70bae] [vps180rdp] start proxy success[0m
+2018/04/17 13:04:45 [1;31m[E] [control.go:148] [0e05943ca0a70bae] work connection closed, broken pipe[0m
+2018/04/17 13:04:45 [1;33m[W] [control.go:281] [0e05943ca0a70bae] read error: broken pipe[0m
+2018/04/17 13:04:45 [1;34m[I] [control.go:301] [0e05943ca0a70bae] control writer is closing[0m
+2018/04/17 13:04:45 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 13:04:45 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection refused[0m
+2018/04/17 13:04:46 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 13:04:46 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection refused[0m
+2018/04/17 13:04:48 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 13:06:55 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 13:06:59 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 13:09:06 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 13:09:14 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 13:11:22 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 13:11:38 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 13:13:45 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 13:14:05 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 13:16:12 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 13:16:32 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 13:18:39 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 13:18:59 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 13:21:06 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 13:21:26 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 13:23:34 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 13:23:54 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 13:26:01 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 13:26:21 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 13:28:28 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 13:28:48 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 13:28:48 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection refused[0m
+2018/04/17 13:29:08 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 13:29:08 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection refused[0m
+2018/04/17 13:29:28 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 13:29:28 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection refused[0m
+2018/04/17 13:29:48 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 13:29:48 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection refused[0m
+2018/04/17 13:30:08 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 13:30:08 [1;34m[I] [control.go:240] [0e05943ca0a70bae] login to server success, get run id [0e05943ca0a70bae], server udp port [0][0m
+2018/04/17 13:30:08 [1;34m[I] [control.go:165] [0e05943ca0a70bae] [vps180rdp] start proxy success[0m
+2018/04/17 16:47:38 [1;31m[E] [control.go:148] [0e05943ca0a70bae] work connection closed, broken pipe[0m
+2018/04/17 16:47:38 [1;33m[W] [control.go:281] [0e05943ca0a70bae] read error: broken pipe[0m
+2018/04/17 16:47:38 [1;34m[I] [control.go:301] [0e05943ca0a70bae] control writer is closing[0m
+2018/04/17 16:47:38 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 16:49:45 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 16:49:46 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 16:51:54 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 16:51:56 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 16:54:03 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 16:54:07 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 16:56:14 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 16:56:22 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 16:58:30 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 16:58:46 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 17:00:53 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 17:01:13 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 17:03:20 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 17:03:40 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 17:05:47 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 17:06:07 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 17:08:14 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 17:08:34 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 17:10:42 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 17:11:02 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 17:13:09 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 17:13:29 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 17:15:36 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 17:15:56 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 17:18:03 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 17:18:23 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 17:20:30 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 17:20:50 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 17:22:58 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 17:23:18 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 17:25:25 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 17:25:45 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 17:27:52 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 17:28:12 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 17:30:19 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 17:30:39 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 17:32:46 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 17:33:06 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 17:35:14 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 17:35:34 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 17:37:41 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 17:38:01 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 17:40:08 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 17:40:28 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 17:42:35 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 17:42:55 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 17:45:02 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 17:45:22 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 17:47:30 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 17:47:50 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 17:49:57 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 17:50:17 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 17:52:24 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 17:52:44 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 17:54:51 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 17:55:11 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 17:57:18 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 17:57:38 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 17:59:46 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 18:00:06 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 18:02:13 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 18:02:33 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 18:04:40 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 18:05:00 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 18:07:07 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 18:07:27 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 18:09:34 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 18:09:54 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 18:12:02 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 18:12:22 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 18:14:29 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 18:14:49 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 18:16:56 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 18:17:16 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 18:19:23 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 18:19:43 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 18:21:50 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 18:22:10 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 18:24:18 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 18:24:38 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 18:26:45 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 18:27:05 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 18:29:12 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 18:29:32 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 18:31:39 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 18:31:59 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 18:34:06 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 18:34:26 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 18:36:34 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 18:36:54 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 18:39:01 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 18:39:21 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 18:41:28 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 18:41:48 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 18:43:55 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 18:44:15 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 18:46:22 [1;33m[W] [control.go:402] [0e05943ca0a70bae] reconnect to server error: dial tcp 47.98.226.236:7000: connect: connection timed out[0m
+2018/04/17 18:46:42 [1;34m[I] [control.go:399] [0e05943ca0a70bae] try to reconnect to server...[0m
+2018/04/17 18:48:20 [1;34m[I] [proxy_manager.go:298] proxy removed: [][0m
+2018/04/17 18:48:20 [1;34m[I] [proxy_manager.go:308] proxy added: [vps180rdp][0m
+2018/04/17 18:48:20 [1;34m[I] [proxy_manager.go:331] visitor removed: [][0m
+2018/04/17 18:48:20 [1;34m[I] [proxy_manager.go:340] visitor added: [][0m
+2018/04/17 18:48:20 [1;33m[W] [control.go:109] login to server failed: dial tcp 198.181.41.220:7000: connect: connection refused[0m
+dial tcp 198.181.41.220:7000: connect: connection refused
+2018/04/17 06:51:18 [1;34m[I] [service.go:96] frps tcp listen on 0.0.0.0:7000[0m
+2018/04/17 06:51:18 [1;34m[I] [main.go:112] Start frps success[0m
+2018/04/17 06:51:18 [1;34m[I] [main.go:114] PrivilegeMode is enabled, you should pay more attention to security issues[0m
+2018/04/17 06:51:38 [1;34m[I] [service.go:262] client login info: ip [180.109.81.56:48686] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/17 06:51:38 [1;34m[I] [proxy.go:201] [e845334b9bbed64e] [vps180rdp] tcp proxy listen port [23389][0m
+2018/04/17 06:51:38 [1;34m[I] [control.go:326] [e845334b9bbed64e] new proxy [vps180rdp] success[0m
+2018/04/17 06:51:51 [1;34m[I] [service.go:262] client login info: ip [180.109.81.56:56988] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/17 06:51:51 [1;34m[I] [proxy.go:201] [47196a271d09a8e5] [host101] tcp proxy listen port [20022][0m
+2018/04/17 06:51:51 [1;34m[I] [control.go:326] [47196a271d09a8e5] new proxy [host101] success[0m
+2018/04/17 06:51:51 [1;34m[I] [proxy.go:201] [47196a271d09a8e5] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/17 06:51:51 [1;34m[I] [control.go:326] [47196a271d09a8e5] new proxy [vps80rdp] success[0m
+2018/04/17 06:51:51 [1;34m[I] [proxy.go:201] [47196a271d09a8e5] [host100] tcp proxy listen port [10022][0m
+2018/04/17 06:51:51 [1;34m[I] [control.go:326] [47196a271d09a8e5] new proxy [host100] success[0m
+2018/04/17 06:53:17 [1;34m[I] [proxy.go:85] [47196a271d09a8e5] [vps80rdp] get a new work connection: [180.109.81.56:56988][0m
+2018/04/17 09:23:12 [1;34m[I] [service.go:262] client login info: ip [36.149.64.37:40535] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/17 09:23:12 [1;34m[I] [proxy.go:201] [31a9fa70dd79b35c] [ssh] tcp proxy listen port [33389][0m
+2018/04/17 09:23:12 [1;34m[I] [control.go:326] [31a9fa70dd79b35c] new proxy [ssh] success[0m
+2018/04/17 09:24:30 [1;34m[I] [proxy.go:85] [e845334b9bbed64e] [vps180rdp] get a new work connection: [180.109.81.56:48686][0m
+2018/04/17 09:24:41 [1;34m[I] [proxy.go:85] [e845334b9bbed64e] [vps180rdp] get a new work connection: [180.109.81.56:48686][0m
+2018/04/17 09:27:52 [1;34m[I] [proxy.go:85] [e845334b9bbed64e] [vps180rdp] get a new work connection: [180.109.81.56:48686][0m
+2018/04/17 09:27:55 [1;34m[I] [proxy.go:85] [e845334b9bbed64e] [vps180rdp] get a new work connection: [180.109.81.56:48686][0m
+2018/04/17 09:32:27 [1;34m[I] [proxy.go:85] [47196a271d09a8e5] [host100] get a new work connection: [180.109.81.56:56988][0m
+2018/04/17 09:33:48 [1;34m[I] [proxy.go:85] [47196a271d09a8e5] [host101] get a new work connection: [180.109.81.56:56988][0m
+2018/04/17 09:34:22 [1;34m[I] [proxy.go:85] [e845334b9bbed64e] [vps180rdp] get a new work connection: [180.109.81.56:48686][0m
+2018/04/17 09:34:32 [1;34m[I] [proxy.go:85] [e845334b9bbed64e] [vps180rdp] get a new work connection: [180.109.81.56:48686][0m
+2018/04/17 09:51:12 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/17 09:51:12 [1;33m[W] [control.go:241] [31a9fa70dd79b35c] read error: broken pipe[0m
+2018/04/17 09:51:12 [1;34m[I] [control.go:213] [31a9fa70dd79b35c] control writer is closing[0m
+2018/04/17 09:51:12 [1;34m[I] [proxy.go:71] [31a9fa70dd79b35c] [ssh] proxy closing[0m
+2018/04/17 09:51:12 [1;34m[I] [proxy.go:117] [31a9fa70dd79b35c] [ssh] listener is closed[0m
+2018/04/17 09:51:12 [1;34m[I] [control.go:283] [31a9fa70dd79b35c] client exit success[0m
+2018/04/17 16:00:38 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/17 16:00:38 [1;33m[W] [control.go:241] [e845334b9bbed64e] read error: broken pipe[0m
+2018/04/17 16:00:38 [1;34m[I] [control.go:213] [e845334b9bbed64e] control writer is closing[0m
+2018/04/17 16:00:38 [1;34m[I] [proxy.go:71] [e845334b9bbed64e] [vps180rdp] proxy closing[0m
+2018/04/17 16:00:38 [1;34m[I] [proxy.go:117] [e845334b9bbed64e] [vps180rdp] listener is closed[0m
+2018/04/17 16:00:38 [1;34m[I] [control.go:283] [e845334b9bbed64e] client exit success[0m
+2018/04/17 16:00:51 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/17 16:00:51 [1;33m[W] [control.go:241] [47196a271d09a8e5] read error: broken pipe[0m
+2018/04/17 16:00:51 [1;34m[I] [control.go:213] [47196a271d09a8e5] control writer is closing[0m
+2018/04/17 16:00:51 [1;34m[I] [proxy.go:71] [47196a271d09a8e5] [host101] proxy closing[0m
+2018/04/17 16:00:51 [1;34m[I] [proxy.go:117] [47196a271d09a8e5] [host101] listener is closed[0m
+2018/04/17 16:00:51 [1;34m[I] [proxy.go:71] [47196a271d09a8e5] [vps80rdp] proxy closing[0m
+2018/04/17 16:00:51 [1;34m[I] [proxy.go:117] [47196a271d09a8e5] [vps80rdp] listener is closed[0m
+2018/04/17 16:00:51 [1;34m[I] [proxy.go:71] [47196a271d09a8e5] [host100] proxy closing[0m
+2018/04/17 16:00:51 [1;34m[I] [proxy.go:117] [47196a271d09a8e5] [host100] listener is closed[0m
+2018/04/17 16:00:51 [1;34m[I] [control.go:283] [47196a271d09a8e5] client exit success[0m
+2018/04/17 16:02:40 [1;34m[I] [service.go:262] client login info: ip [117.89.130.58:48714] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/17 16:02:40 [1;34m[I] [control.go:190] [e845334b9bbed64e] Replaced by client [e845334b9bbed64e][0m
+2018/04/17 16:02:40 [1;34m[I] [proxy.go:201] [e845334b9bbed64e] [vps180rdp] tcp proxy listen port [23389][0m
+2018/04/17 16:02:40 [1;34m[I] [control.go:326] [e845334b9bbed64e] new proxy [vps180rdp] success[0m
+2018/04/17 16:03:00 [1;34m[I] [service.go:262] client login info: ip [117.89.130.58:57184] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/17 16:03:00 [1;34m[I] [control.go:190] [47196a271d09a8e5] Replaced by client [47196a271d09a8e5][0m
+2018/04/17 16:03:01 [1;34m[I] [proxy.go:201] [47196a271d09a8e5] [host100] tcp proxy listen port [10022][0m
+2018/04/17 16:03:01 [1;34m[I] [control.go:326] [47196a271d09a8e5] new proxy [host100] success[0m
+2018/04/17 16:03:01 [1;34m[I] [proxy.go:201] [47196a271d09a8e5] [host101] tcp proxy listen port [20022][0m
+2018/04/17 16:03:01 [1;34m[I] [control.go:326] [47196a271d09a8e5] new proxy [host101] success[0m
+2018/04/17 16:03:01 [1;34m[I] [proxy.go:201] [47196a271d09a8e5] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/17 16:03:01 [1;34m[I] [control.go:326] [47196a271d09a8e5] new proxy [vps80rdp] success[0m
+2018/04/17 22:13:40 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/17 22:13:40 [1;33m[W] [control.go:241] [e845334b9bbed64e] read error: broken pipe[0m
+2018/04/17 22:13:40 [1;34m[I] [control.go:213] [e845334b9bbed64e] control writer is closing[0m
+2018/04/17 22:13:40 [1;34m[I] [proxy.go:71] [e845334b9bbed64e] [vps180rdp] proxy closing[0m
+2018/04/17 22:13:40 [1;34m[I] [proxy.go:117] [e845334b9bbed64e] [vps180rdp] listener is closed[0m
+2018/04/17 22:13:40 [1;34m[I] [control.go:283] [e845334b9bbed64e] client exit success[0m
+2018/04/17 22:14:00 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/17 22:14:00 [1;33m[W] [control.go:241] [47196a271d09a8e5] read error: broken pipe[0m
+2018/04/17 22:14:00 [1;34m[I] [control.go:213] [47196a271d09a8e5] control writer is closing[0m
+2018/04/17 22:14:00 [1;34m[I] [proxy.go:71] [47196a271d09a8e5] [host100] proxy closing[0m
+2018/04/17 22:14:00 [1;34m[I] [proxy.go:117] [47196a271d09a8e5] [host100] listener is closed[0m
+2018/04/17 22:14:00 [1;34m[I] [proxy.go:71] [47196a271d09a8e5] [host101] proxy closing[0m
+2018/04/17 22:14:00 [1;34m[I] [proxy.go:117] [47196a271d09a8e5] [host101] listener is closed[0m
+2018/04/17 22:14:00 [1;34m[I] [proxy.go:71] [47196a271d09a8e5] [vps80rdp] proxy closing[0m
+2018/04/17 22:14:00 [1;34m[I] [proxy.go:117] [47196a271d09a8e5] [vps80rdp] listener is closed[0m
+2018/04/17 22:14:00 [1;34m[I] [control.go:283] [47196a271d09a8e5] client exit success[0m
+2018/04/18 03:26:57 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/18 04:23:47 [1;34m[I] [service.go:262] client login info: ip [117.89.130.58:59288] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/18 04:23:47 [1;34m[I] [control.go:190] [47196a271d09a8e5] Replaced by client [47196a271d09a8e5][0m
+2018/04/18 04:24:44 [1;34m[I] [service.go:262] client login info: ip [117.89.130.58:59292] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/18 04:24:44 [1;34m[I] [control.go:190] [47196a271d09a8e5] Replaced by client [47196a271d09a8e5][0m
+2018/04/18 04:24:44 [1;34m[I] [control.go:213] [47196a271d09a8e5] control writer is closing[0m
+2018/04/18 04:24:44 [1;33m[W] [control.go:241] [47196a271d09a8e5] read error: broken pipe[0m
+2018/04/18 04:24:44 [1;34m[I] [control.go:283] [47196a271d09a8e5] client exit success[0m
+2018/04/18 04:24:44 [1;34m[I] [control.go:213] [47196a271d09a8e5] control writer is closing[0m
+2018/04/18 04:24:44 [1;34m[I] [control.go:283] [47196a271d09a8e5] client exit success[0m
+2018/04/18 04:24:47 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/18 04:25:44 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/18 04:58:44 [1;34m[I] [service.go:262] client login info: ip [117.89.130.58:59340] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/18 04:58:44 [1;34m[I] [control.go:190] [47196a271d09a8e5] Replaced by client [47196a271d09a8e5][0m
+2018/04/18 04:58:44 [1;34m[I] [control.go:213] [47196a271d09a8e5] control writer is closing[0m
+2018/04/18 04:58:44 [1;34m[I] [control.go:283] [47196a271d09a8e5] client exit success[0m
+2018/04/18 04:59:44 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/18 05:49:15 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/18 16:02:41 [1;34m[I] [service.go:262] client login info: ip [180.109.80.123:55070] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/18 16:02:41 [1;34m[I] [control.go:190] [e845334b9bbed64e] Replaced by client [e845334b9bbed64e][0m
+2018/04/18 16:02:41 [1;34m[I] [proxy.go:201] [e845334b9bbed64e] [vps180rdp] tcp proxy listen port [23389][0m
+2018/04/18 16:02:41 [1;34m[I] [control.go:326] [e845334b9bbed64e] new proxy [vps180rdp] success[0m
+2018/04/19 16:00:41 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/19 16:00:41 [1;33m[W] [control.go:241] [e845334b9bbed64e] read error: broken pipe[0m
+2018/04/19 16:00:41 [1;34m[I] [control.go:213] [e845334b9bbed64e] control writer is closing[0m
+2018/04/19 16:00:41 [1;34m[I] [proxy.go:71] [e845334b9bbed64e] [vps180rdp] proxy closing[0m
+2018/04/19 16:00:41 [1;34m[I] [proxy.go:117] [e845334b9bbed64e] [vps180rdp] listener is closed[0m
+2018/04/19 16:00:41 [1;34m[I] [control.go:283] [e845334b9bbed64e] client exit success[0m
+2018/04/19 16:02:32 [1;34m[I] [service.go:262] client login info: ip [117.89.134.136:56632] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/19 16:02:32 [1;34m[I] [control.go:190] [e845334b9bbed64e] Replaced by client [e845334b9bbed64e][0m
+2018/04/19 16:02:32 [1;34m[I] [proxy.go:201] [e845334b9bbed64e] [vps180rdp] tcp proxy listen port [23389][0m
+2018/04/19 16:02:32 [1;34m[I] [control.go:326] [e845334b9bbed64e] new proxy [vps180rdp] success[0m
+2018/04/20 16:01:01 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/20 16:01:01 [1;33m[W] [control.go:241] [e845334b9bbed64e] read error: broken pipe[0m
+2018/04/20 16:01:01 [1;34m[I] [control.go:213] [e845334b9bbed64e] control writer is closing[0m
+2018/04/20 16:01:01 [1;34m[I] [proxy.go:71] [e845334b9bbed64e] [vps180rdp] proxy closing[0m
+2018/04/20 16:01:01 [1;34m[I] [proxy.go:117] [e845334b9bbed64e] [vps180rdp] listener is closed[0m
+2018/04/20 16:01:01 [1;34m[I] [control.go:283] [e845334b9bbed64e] client exit success[0m
+2018/04/20 16:02:37 [1;34m[I] [service.go:262] client login info: ip [117.89.132.95:58318] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/20 16:02:37 [1;34m[I] [control.go:190] [e845334b9bbed64e] Replaced by client [e845334b9bbed64e][0m
+2018/04/20 16:02:37 [1;34m[I] [proxy.go:201] [e845334b9bbed64e] [vps180rdp] tcp proxy listen port [23389][0m
+2018/04/20 16:02:37 [1;34m[I] [control.go:326] [e845334b9bbed64e] new proxy [vps180rdp] success[0m
+2018/04/21 00:56:07 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/21 00:56:07 [1;33m[W] [control.go:241] [e845334b9bbed64e] read error: broken pipe[0m
+2018/04/21 00:56:07 [1;34m[I] [control.go:213] [e845334b9bbed64e] control writer is closing[0m
+2018/04/21 00:56:07 [1;34m[I] [proxy.go:71] [e845334b9bbed64e] [vps180rdp] proxy closing[0m
+2018/04/21 00:56:07 [1;34m[I] [proxy.go:117] [e845334b9bbed64e] [vps180rdp] listener is closed[0m
+2018/04/21 00:56:07 [1;34m[I] [control.go:283] [e845334b9bbed64e] client exit success[0m
+2018/04/21 00:56:34 [1;34m[I] [service.go:262] client login info: ip [117.89.132.95:58544] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/21 00:56:34 [1;34m[I] [control.go:190] [e845334b9bbed64e] Replaced by client [e845334b9bbed64e][0m
+2018/04/21 00:56:34 [1;34m[I] [proxy.go:201] [e845334b9bbed64e] [vps180rdp] tcp proxy listen port [23389][0m
+2018/04/21 00:56:34 [1;34m[I] [control.go:326] [e845334b9bbed64e] new proxy [vps180rdp] success[0m
+2018/04/21 00:56:35 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/21 16:01:04 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/21 16:01:04 [1;33m[W] [control.go:241] [e845334b9bbed64e] read error: broken pipe[0m
+2018/04/21 16:01:04 [1;34m[I] [control.go:213] [e845334b9bbed64e] control writer is closing[0m
+2018/04/21 16:01:04 [1;34m[I] [proxy.go:71] [e845334b9bbed64e] [vps180rdp] proxy closing[0m
+2018/04/21 16:01:04 [1;34m[I] [proxy.go:117] [e845334b9bbed64e] [vps180rdp] listener is closed[0m
+2018/04/21 16:01:04 [1;34m[I] [control.go:283] [e845334b9bbed64e] client exit success[0m
+2018/04/21 16:02:38 [1;34m[I] [service.go:262] client login info: ip [180.109.81.144:58938] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/21 16:02:38 [1;34m[I] [control.go:190] [e845334b9bbed64e] Replaced by client [e845334b9bbed64e][0m
+2018/04/21 16:02:38 [1;34m[I] [proxy.go:201] [e845334b9bbed64e] [vps180rdp] tcp proxy listen port [23389][0m
+2018/04/21 16:02:38 [1;34m[I] [control.go:326] [e845334b9bbed64e] new proxy [vps180rdp] success[0m
+2018/04/22 01:22:08 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/22 01:22:08 [1;33m[W] [control.go:241] [e845334b9bbed64e] read error: broken pipe[0m
+2018/04/22 01:22:08 [1;34m[I] [control.go:213] [e845334b9bbed64e] control writer is closing[0m
+2018/04/22 01:22:08 [1;34m[I] [proxy.go:71] [e845334b9bbed64e] [vps180rdp] proxy closing[0m
+2018/04/22 01:22:08 [1;34m[I] [proxy.go:117] [e845334b9bbed64e] [vps180rdp] listener is closed[0m
+2018/04/22 01:22:08 [1;34m[I] [control.go:283] [e845334b9bbed64e] client exit success[0m
+2018/04/22 01:23:11 [1;34m[I] [service.go:262] client login info: ip [180.109.81.144:59170] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/22 01:23:11 [1;34m[I] [control.go:190] [e845334b9bbed64e] Replaced by client [e845334b9bbed64e][0m
+2018/04/22 01:23:12 [1;34m[I] [proxy.go:201] [e845334b9bbed64e] [vps180rdp] tcp proxy listen port [23389][0m
+2018/04/22 01:23:12 [1;34m[I] [control.go:326] [e845334b9bbed64e] new proxy [vps180rdp] success[0m
+2018/04/22 09:26:50 [1;34m[I] [service.go:262] client login info: ip [180.109.81.144:34440] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/22 09:26:50 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/22 09:26:50 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/22 09:26:50 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/22 09:26:50 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/22 09:26:50 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/22 09:26:50 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/22 16:00:41 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/22 16:00:41 [1;33m[W] [control.go:241] [e845334b9bbed64e] read error: broken pipe[0m
+2018/04/22 16:00:41 [1;34m[I] [control.go:213] [e845334b9bbed64e] control writer is closing[0m
+2018/04/22 16:00:41 [1;34m[I] [proxy.go:71] [e845334b9bbed64e] [vps180rdp] proxy closing[0m
+2018/04/22 16:00:41 [1;34m[I] [proxy.go:117] [e845334b9bbed64e] [vps180rdp] listener is closed[0m
+2018/04/22 16:00:41 [1;34m[I] [control.go:283] [e845334b9bbed64e] client exit success[0m
+2018/04/22 16:00:50 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/22 16:00:50 [1;33m[W] [control.go:241] [1752e62b92e93513] read error: broken pipe[0m
+2018/04/22 16:00:50 [1;34m[I] [control.go:213] [1752e62b92e93513] control writer is closing[0m
+2018/04/22 16:00:50 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host101] proxy closing[0m
+2018/04/22 16:00:50 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host101] listener is closed[0m
+2018/04/22 16:00:50 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [vps80rdp] proxy closing[0m
+2018/04/22 16:00:50 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [vps80rdp] listener is closed[0m
+2018/04/22 16:00:50 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host100] proxy closing[0m
+2018/04/22 16:00:50 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host100] listener is closed[0m
+2018/04/22 16:00:50 [1;34m[I] [control.go:283] [1752e62b92e93513] client exit success[0m
+2018/04/22 16:02:36 [1;34m[I] [service.go:262] client login info: ip [180.109.81.199:59558] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/22 16:02:36 [1;34m[I] [control.go:190] [e845334b9bbed64e] Replaced by client [e845334b9bbed64e][0m
+2018/04/22 16:02:36 [1;34m[I] [proxy.go:201] [e845334b9bbed64e] [vps180rdp] tcp proxy listen port [23389][0m
+2018/04/22 16:02:36 [1;34m[I] [control.go:326] [e845334b9bbed64e] new proxy [vps180rdp] success[0m
+2018/04/22 16:02:59 [1;34m[I] [service.go:262] client login info: ip [180.109.81.199:34584] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/22 16:02:59 [1;34m[I] [control.go:190] [1752e62b92e93513] Replaced by client [1752e62b92e93513][0m
+2018/04/22 16:02:59 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/22 16:02:59 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/22 16:03:00 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/22 16:03:00 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/22 16:03:00 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/22 16:03:00 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/22 16:52:22 [1;34m[I] [proxy.go:85] [1752e62b92e93513] [host100] get a new work connection: [180.109.81.199:34584][0m
+2018/04/23 16:00:36 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/23 16:00:36 [1;33m[W] [control.go:241] [e845334b9bbed64e] read error: broken pipe[0m
+2018/04/23 16:00:36 [1;34m[I] [control.go:213] [e845334b9bbed64e] control writer is closing[0m
+2018/04/23 16:00:36 [1;34m[I] [proxy.go:71] [e845334b9bbed64e] [vps180rdp] proxy closing[0m
+2018/04/23 16:00:36 [1;34m[I] [proxy.go:117] [e845334b9bbed64e] [vps180rdp] listener is closed[0m
+2018/04/23 16:00:36 [1;34m[I] [control.go:283] [e845334b9bbed64e] client exit success[0m
+2018/04/23 16:00:59 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/23 16:00:59 [1;33m[W] [control.go:241] [1752e62b92e93513] read error: broken pipe[0m
+2018/04/23 16:00:59 [1;34m[I] [control.go:213] [1752e62b92e93513] control writer is closing[0m
+2018/04/23 16:00:59 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [vps80rdp] proxy closing[0m
+2018/04/23 16:00:59 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [vps80rdp] listener is closed[0m
+2018/04/23 16:00:59 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host100] proxy closing[0m
+2018/04/23 16:00:59 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host100] listener is closed[0m
+2018/04/23 16:00:59 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host101] proxy closing[0m
+2018/04/23 16:00:59 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host101] listener is closed[0m
+2018/04/23 16:00:59 [1;34m[I] [control.go:283] [1752e62b92e93513] client exit success[0m
+2018/04/23 16:02:37 [1;34m[I] [service.go:262] client login info: ip [180.109.161.239:35070] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/23 16:02:37 [1;34m[I] [control.go:190] [1752e62b92e93513] Replaced by client [1752e62b92e93513][0m
+2018/04/23 16:02:37 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/23 16:02:37 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/23 16:02:37 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/23 16:02:37 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/23 16:02:37 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/23 16:02:37 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/23 16:03:00 [1;34m[I] [service.go:262] client login info: ip [180.109.161.239:60170] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/23 16:03:00 [1;34m[I] [control.go:190] [e845334b9bbed64e] Replaced by client [e845334b9bbed64e][0m
+2018/04/23 16:03:00 [1;34m[I] [proxy.go:201] [e845334b9bbed64e] [vps180rdp] tcp proxy listen port [23389][0m
+2018/04/23 16:03:00 [1;34m[I] [control.go:326] [e845334b9bbed64e] new proxy [vps180rdp] success[0m
+2018/04/23 23:22:27 [1;34m[I] [proxy.go:85] [1752e62b92e93513] [host100] get a new work connection: [180.109.161.239:35070][0m
+2018/04/24 07:16:17 [1;33m[W] [control.go:241] [1752e62b92e93513] read error: broken pipe[0m
+2018/04/24 07:16:17 [1;34m[I] [control.go:213] [1752e62b92e93513] control writer is closing[0m
+2018/04/24 07:16:17 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host100] proxy closing[0m
+2018/04/24 07:16:17 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host100] listener is closed[0m
+2018/04/24 07:16:17 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/24 07:16:17 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host101] proxy closing[0m
+2018/04/24 07:16:17 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host101] listener is closed[0m
+2018/04/24 07:16:17 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [vps80rdp] proxy closing[0m
+2018/04/24 07:16:17 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [vps80rdp] listener is closed[0m
+2018/04/24 07:16:17 [1;34m[I] [control.go:283] [1752e62b92e93513] client exit success[0m
+2018/04/24 07:23:35 [1;34m[I] [service.go:262] client login info: ip [180.109.161.239:35374] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/24 07:23:35 [1;34m[I] [control.go:190] [1752e62b92e93513] Replaced by client [1752e62b92e93513][0m
+2018/04/24 07:23:35 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/24 07:23:35 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/24 07:23:35 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/24 07:23:35 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/24 07:23:35 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/24 07:23:35 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/24 07:26:05 [1;33m[W] [control.go:241] [1752e62b92e93513] read error: broken pipe[0m
+2018/04/24 07:26:05 [1;34m[I] [control.go:213] [1752e62b92e93513] control writer is closing[0m
+2018/04/24 07:26:05 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host100] proxy closing[0m
+2018/04/24 07:26:05 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host100] listener is closed[0m
+2018/04/24 07:26:05 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/24 07:26:05 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host101] proxy closing[0m
+2018/04/24 07:26:05 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host101] listener is closed[0m
+2018/04/24 07:26:05 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [vps80rdp] proxy closing[0m
+2018/04/24 07:26:05 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [vps80rdp] listener is closed[0m
+2018/04/24 07:26:05 [1;34m[I] [control.go:283] [1752e62b92e93513] client exit success[0m
+2018/04/24 07:26:27 [1;34m[I] [service.go:262] client login info: ip [180.109.161.239:35380] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/24 07:26:27 [1;34m[I] [control.go:190] [1752e62b92e93513] Replaced by client [1752e62b92e93513][0m
+2018/04/24 07:26:27 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/24 07:26:27 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/24 07:26:27 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/24 07:26:27 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/24 07:26:27 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/24 07:26:27 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/24 07:36:17 [1;33m[W] [control.go:241] [1752e62b92e93513] read error: broken pipe[0m
+2018/04/24 07:36:17 [1;34m[I] [control.go:213] [1752e62b92e93513] control writer is closing[0m
+2018/04/24 07:36:17 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host100] proxy closing[0m
+2018/04/24 07:36:17 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host100] listener is closed[0m
+2018/04/24 07:36:17 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/24 07:36:17 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host101] proxy closing[0m
+2018/04/24 07:36:17 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host101] listener is closed[0m
+2018/04/24 07:36:17 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [vps80rdp] proxy closing[0m
+2018/04/24 07:36:17 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [vps80rdp] listener is closed[0m
+2018/04/24 07:36:17 [1;34m[I] [control.go:283] [1752e62b92e93513] client exit success[0m
+2018/04/24 07:36:40 [1;34m[I] [service.go:262] client login info: ip [180.109.161.239:35382] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/24 07:36:40 [1;34m[I] [control.go:190] [1752e62b92e93513] Replaced by client [1752e62b92e93513][0m
+2018/04/24 07:36:40 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/24 07:36:40 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/24 07:36:40 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/24 07:36:40 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/24 07:36:40 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/24 07:36:40 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/24 16:00:40 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/24 16:00:40 [1;33m[W] [control.go:241] [1752e62b92e93513] read error: broken pipe[0m
+2018/04/24 16:00:40 [1;34m[I] [control.go:213] [1752e62b92e93513] control writer is closing[0m
+2018/04/24 16:00:40 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [vps80rdp] proxy closing[0m
+2018/04/24 16:00:40 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [vps80rdp] listener is closed[0m
+2018/04/24 16:00:40 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host100] proxy closing[0m
+2018/04/24 16:00:40 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host100] listener is closed[0m
+2018/04/24 16:00:40 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host101] proxy closing[0m
+2018/04/24 16:00:40 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host101] listener is closed[0m
+2018/04/24 16:00:40 [1;34m[I] [control.go:283] [1752e62b92e93513] client exit success[0m
+2018/04/24 16:01:00 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/24 16:01:00 [1;33m[W] [control.go:241] [e845334b9bbed64e] read error: broken pipe[0m
+2018/04/24 16:01:00 [1;34m[I] [control.go:213] [e845334b9bbed64e] control writer is closing[0m
+2018/04/24 16:01:00 [1;34m[I] [proxy.go:71] [e845334b9bbed64e] [vps180rdp] proxy closing[0m
+2018/04/24 16:01:00 [1;34m[I] [proxy.go:117] [e845334b9bbed64e] [vps180rdp] listener is closed[0m
+2018/04/24 16:01:00 [1;34m[I] [control.go:283] [e845334b9bbed64e] client exit success[0m
+2018/04/24 16:02:34 [1;34m[I] [service.go:262] client login info: ip [180.109.80.107:60786] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/24 16:02:34 [1;34m[I] [control.go:190] [e845334b9bbed64e] Replaced by client [e845334b9bbed64e][0m
+2018/04/24 16:02:35 [1;34m[I] [proxy.go:201] [e845334b9bbed64e] [vps180rdp] tcp proxy listen port [23389][0m
+2018/04/24 16:02:35 [1;34m[I] [control.go:326] [e845334b9bbed64e] new proxy [vps180rdp] success[0m
+2018/04/24 16:02:37 [1;34m[I] [service.go:262] client login info: ip [180.109.80.107:35562] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/24 16:02:37 [1;34m[I] [control.go:190] [1752e62b92e93513] Replaced by client [1752e62b92e93513][0m
+2018/04/24 16:02:38 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/24 16:02:38 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/24 16:02:38 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/24 16:02:38 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/24 16:02:38 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/24 16:02:38 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/25 11:54:04 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/25 11:54:04 [1;33m[W] [control.go:241] [e845334b9bbed64e] read error: broken pipe[0m
+2018/04/25 11:54:04 [1;34m[I] [control.go:213] [e845334b9bbed64e] control writer is closing[0m
+2018/04/25 11:54:04 [1;34m[I] [proxy.go:71] [e845334b9bbed64e] [vps180rdp] proxy closing[0m
+2018/04/25 11:54:04 [1;34m[I] [proxy.go:117] [e845334b9bbed64e] [vps180rdp] listener is closed[0m
+2018/04/25 11:54:04 [1;34m[I] [control.go:283] [e845334b9bbed64e] client exit success[0m
+2018/04/25 11:54:04 [1;34m[I] [service.go:262] client login info: ip [180.109.81.226:33038] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/25 11:54:04 [1;34m[I] [control.go:190] [e845334b9bbed64e] Replaced by client [e845334b9bbed64e][0m
+2018/04/25 11:54:05 [1;34m[I] [proxy.go:201] [e845334b9bbed64e] [vps180rdp] tcp proxy listen port [23389][0m
+2018/04/25 11:54:05 [1;34m[I] [control.go:326] [e845334b9bbed64e] new proxy [vps180rdp] success[0m
+2018/04/25 11:54:37 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/25 11:54:37 [1;33m[W] [control.go:241] [1752e62b92e93513] read error: broken pipe[0m
+2018/04/25 11:54:37 [1;34m[I] [control.go:213] [1752e62b92e93513] control writer is closing[0m
+2018/04/25 11:54:37 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host101] proxy closing[0m
+2018/04/25 11:54:37 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host101] listener is closed[0m
+2018/04/25 11:54:37 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [vps80rdp] proxy closing[0m
+2018/04/25 11:54:37 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [vps80rdp] listener is closed[0m
+2018/04/25 11:54:37 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host100] proxy closing[0m
+2018/04/25 11:54:37 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host100] listener is closed[0m
+2018/04/25 11:54:37 [1;34m[I] [control.go:283] [1752e62b92e93513] client exit success[0m
+2018/04/25 11:54:37 [1;34m[I] [service.go:262] client login info: ip [180.109.81.226:35944] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/25 11:54:37 [1;34m[I] [control.go:190] [1752e62b92e93513] Replaced by client [1752e62b92e93513][0m
+2018/04/25 11:54:37 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/25 11:54:37 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/25 11:54:37 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/25 11:54:37 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/25 11:54:37 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/25 11:54:37 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/25 16:00:37 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/25 16:00:37 [1;33m[W] [control.go:241] [1752e62b92e93513] read error: broken pipe[0m
+2018/04/25 16:00:37 [1;34m[I] [control.go:213] [1752e62b92e93513] control writer is closing[0m
+2018/04/25 16:00:37 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host101] proxy closing[0m
+2018/04/25 16:00:37 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host101] listener is closed[0m
+2018/04/25 16:00:37 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [vps80rdp] proxy closing[0m
+2018/04/25 16:00:37 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [vps80rdp] listener is closed[0m
+2018/04/25 16:00:37 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host100] proxy closing[0m
+2018/04/25 16:00:37 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host100] listener is closed[0m
+2018/04/25 16:00:37 [1;34m[I] [control.go:283] [1752e62b92e93513] client exit success[0m
+2018/04/25 16:01:04 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/25 16:01:04 [1;33m[W] [control.go:241] [e845334b9bbed64e] read error: broken pipe[0m
+2018/04/25 16:01:04 [1;34m[I] [control.go:213] [e845334b9bbed64e] control writer is closing[0m
+2018/04/25 16:01:04 [1;34m[I] [proxy.go:71] [e845334b9bbed64e] [vps180rdp] proxy closing[0m
+2018/04/25 16:01:04 [1;34m[I] [proxy.go:117] [e845334b9bbed64e] [vps180rdp] listener is closed[0m
+2018/04/25 16:01:04 [1;34m[I] [control.go:283] [e845334b9bbed64e] client exit success[0m
+2018/04/25 16:02:39 [1;34m[I] [service.go:262] client login info: ip [117.89.133.194:33174] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/25 16:02:39 [1;34m[I] [control.go:190] [e845334b9bbed64e] Replaced by client [e845334b9bbed64e][0m
+2018/04/25 16:02:39 [1;34m[I] [proxy.go:201] [e845334b9bbed64e] [vps180rdp] tcp proxy listen port [23389][0m
+2018/04/25 16:02:39 [1;34m[I] [control.go:326] [e845334b9bbed64e] new proxy [vps180rdp] success[0m
+2018/04/25 16:02:40 [1;34m[I] [service.go:262] client login info: ip [117.89.133.194:36040] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/25 16:02:40 [1;34m[I] [control.go:190] [1752e62b92e93513] Replaced by client [1752e62b92e93513][0m
+2018/04/25 16:02:40 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/25 16:02:40 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/25 16:02:40 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/25 16:02:40 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/25 16:02:40 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/25 16:02:40 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/26 07:21:10 [1;33m[W] [control.go:241] [1752e62b92e93513] read error: broken pipe[0m
+2018/04/26 07:21:10 [1;34m[I] [control.go:213] [1752e62b92e93513] control writer is closing[0m
+2018/04/26 07:21:10 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host101] proxy closing[0m
+2018/04/26 07:21:10 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host101] listener is closed[0m
+2018/04/26 07:21:10 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/26 07:21:10 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [vps80rdp] proxy closing[0m
+2018/04/26 07:21:10 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [vps80rdp] listener is closed[0m
+2018/04/26 07:21:10 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host100] proxy closing[0m
+2018/04/26 07:21:10 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host100] listener is closed[0m
+2018/04/26 07:21:10 [1;34m[I] [control.go:283] [1752e62b92e93513] client exit success[0m
+2018/04/26 07:24:03 [1;34m[I] [service.go:262] client login info: ip [117.89.133.194:36340] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/26 07:24:03 [1;34m[I] [control.go:190] [1752e62b92e93513] Replaced by client [1752e62b92e93513][0m
+2018/04/26 07:24:03 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/26 07:24:03 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/26 07:24:03 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/26 07:24:03 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/26 07:24:03 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/26 07:24:03 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/26 07:24:53 [1;33m[W] [control.go:241] [1752e62b92e93513] read error: broken pipe[0m
+2018/04/26 07:24:53 [1;34m[I] [control.go:213] [1752e62b92e93513] control writer is closing[0m
+2018/04/26 07:24:53 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host101] proxy closing[0m
+2018/04/26 07:24:53 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host101] listener is closed[0m
+2018/04/26 07:24:53 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/26 07:24:53 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [vps80rdp] proxy closing[0m
+2018/04/26 07:24:53 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [vps80rdp] listener is closed[0m
+2018/04/26 07:24:53 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host100] proxy closing[0m
+2018/04/26 07:24:53 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host100] listener is closed[0m
+2018/04/26 07:24:53 [1;34m[I] [control.go:283] [1752e62b92e93513] client exit success[0m
+2018/04/26 07:28:45 [1;34m[I] [service.go:262] client login info: ip [117.89.133.194:36344] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/26 07:28:45 [1;34m[I] [control.go:190] [1752e62b92e93513] Replaced by client [1752e62b92e93513][0m
+2018/04/26 07:28:45 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/26 07:28:45 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/26 07:28:45 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/26 07:28:45 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/26 07:28:45 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/26 07:28:45 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/26 07:28:55 [1;33m[W] [control.go:241] [1752e62b92e93513] read error: broken pipe[0m
+2018/04/26 07:28:55 [1;34m[I] [control.go:213] [1752e62b92e93513] control writer is closing[0m
+2018/04/26 07:28:55 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host101] proxy closing[0m
+2018/04/26 07:28:55 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host101] listener is closed[0m
+2018/04/26 07:28:55 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/26 07:28:55 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [vps80rdp] proxy closing[0m
+2018/04/26 07:28:55 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [vps80rdp] listener is closed[0m
+2018/04/26 07:28:55 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host100] proxy closing[0m
+2018/04/26 07:28:55 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host100] listener is closed[0m
+2018/04/26 07:28:55 [1;34m[I] [control.go:283] [1752e62b92e93513] client exit success[0m
+2018/04/26 07:29:18 [1;34m[I] [service.go:262] client login info: ip [117.89.133.194:36346] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/26 07:29:18 [1;34m[I] [control.go:190] [1752e62b92e93513] Replaced by client [1752e62b92e93513][0m
+2018/04/26 07:29:18 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/26 07:29:18 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/26 07:29:18 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/26 07:29:18 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/26 07:29:18 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/26 07:29:18 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/26 07:29:38 [1;33m[W] [control.go:241] [1752e62b92e93513] read error: broken pipe[0m
+2018/04/26 07:29:38 [1;34m[I] [control.go:213] [1752e62b92e93513] control writer is closing[0m
+2018/04/26 07:29:38 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host100] proxy closing[0m
+2018/04/26 07:29:38 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host100] listener is closed[0m
+2018/04/26 07:29:38 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/26 07:29:38 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host101] proxy closing[0m
+2018/04/26 07:29:38 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host101] listener is closed[0m
+2018/04/26 07:29:38 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [vps80rdp] proxy closing[0m
+2018/04/26 07:29:38 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [vps80rdp] listener is closed[0m
+2018/04/26 07:29:38 [1;34m[I] [control.go:283] [1752e62b92e93513] client exit success[0m
+2018/04/26 07:30:18 [1;34m[I] [service.go:262] client login info: ip [117.89.133.194:36348] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/26 07:30:18 [1;34m[I] [control.go:190] [1752e62b92e93513] Replaced by client [1752e62b92e93513][0m
+2018/04/26 07:30:18 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/26 07:30:18 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/26 07:30:18 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/26 07:30:18 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/26 07:30:18 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/26 07:30:18 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/26 07:31:19 [1;33m[W] [control.go:241] [1752e62b92e93513] read error: broken pipe[0m
+2018/04/26 07:31:19 [1;34m[I] [control.go:213] [1752e62b92e93513] control writer is closing[0m
+2018/04/26 07:31:19 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host101] proxy closing[0m
+2018/04/26 07:31:19 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host101] listener is closed[0m
+2018/04/26 07:31:19 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/26 07:31:19 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [vps80rdp] proxy closing[0m
+2018/04/26 07:31:19 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [vps80rdp] listener is closed[0m
+2018/04/26 07:31:19 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host100] proxy closing[0m
+2018/04/26 07:31:19 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host100] listener is closed[0m
+2018/04/26 07:31:19 [1;34m[I] [control.go:283] [1752e62b92e93513] client exit success[0m
+2018/04/26 07:31:48 [1;34m[I] [service.go:262] client login info: ip [117.89.133.194:36350] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/26 07:31:48 [1;34m[I] [control.go:190] [1752e62b92e93513] Replaced by client [1752e62b92e93513][0m
+2018/04/26 07:31:49 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/26 07:31:49 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/26 07:31:49 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/26 07:31:49 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/26 07:31:49 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/26 07:31:49 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/26 07:39:19 [1;33m[W] [control.go:241] [1752e62b92e93513] read error: broken pipe[0m
+2018/04/26 07:39:19 [1;34m[I] [control.go:213] [1752e62b92e93513] control writer is closing[0m
+2018/04/26 07:39:19 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host101] proxy closing[0m
+2018/04/26 07:39:19 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host101] listener is closed[0m
+2018/04/26 07:39:19 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/26 07:39:19 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [vps80rdp] proxy closing[0m
+2018/04/26 07:39:19 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [vps80rdp] listener is closed[0m
+2018/04/26 07:39:19 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host100] proxy closing[0m
+2018/04/26 07:39:19 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host100] listener is closed[0m
+2018/04/26 07:39:19 [1;34m[I] [control.go:283] [1752e62b92e93513] client exit success[0m
+2018/04/26 07:44:21 [1;34m[I] [service.go:262] client login info: ip [117.89.133.194:36360] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/26 07:44:21 [1;34m[I] [control.go:190] [1752e62b92e93513] Replaced by client [1752e62b92e93513][0m
+2018/04/26 07:44:21 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/26 07:44:21 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/26 07:44:21 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/26 07:44:21 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/26 07:44:21 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/26 07:44:21 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/26 07:48:41 [1;33m[W] [control.go:241] [1752e62b92e93513] read error: broken pipe[0m
+2018/04/26 07:48:41 [1;34m[I] [control.go:213] [1752e62b92e93513] control writer is closing[0m
+2018/04/26 07:48:41 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [vps80rdp] proxy closing[0m
+2018/04/26 07:48:41 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [vps80rdp] listener is closed[0m
+2018/04/26 07:48:41 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/26 07:48:41 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host100] proxy closing[0m
+2018/04/26 07:48:41 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host100] listener is closed[0m
+2018/04/26 07:48:41 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host101] proxy closing[0m
+2018/04/26 07:48:41 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host101] listener is closed[0m
+2018/04/26 07:48:41 [1;34m[I] [control.go:283] [1752e62b92e93513] client exit success[0m
+2018/04/26 08:27:28 [1;34m[I] [service.go:262] client login info: ip [117.89.133.194:36410] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/26 08:27:28 [1;34m[I] [control.go:190] [1752e62b92e93513] Replaced by client [1752e62b92e93513][0m
+2018/04/26 08:27:28 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/26 08:27:28 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/26 08:27:28 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/26 08:27:28 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/26 08:27:28 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/26 08:27:28 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/26 09:14:28 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/26 09:14:28 [1;33m[W] [control.go:241] [1752e62b92e93513] read error: broken pipe[0m
+2018/04/26 09:14:28 [1;34m[I] [control.go:213] [1752e62b92e93513] control writer is closing[0m
+2018/04/26 09:14:28 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [vps80rdp] proxy closing[0m
+2018/04/26 09:14:28 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [vps80rdp] listener is closed[0m
+2018/04/26 09:14:28 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host100] proxy closing[0m
+2018/04/26 09:14:28 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host100] listener is closed[0m
+2018/04/26 09:14:28 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host101] proxy closing[0m
+2018/04/26 09:14:28 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host101] listener is closed[0m
+2018/04/26 09:14:28 [1;34m[I] [control.go:283] [1752e62b92e93513] client exit success[0m
+2018/04/26 09:14:31 [1;34m[I] [service.go:262] client login info: ip [117.89.133.194:36428] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/26 09:14:31 [1;34m[I] [control.go:190] [1752e62b92e93513] Replaced by client [1752e62b92e93513][0m
+2018/04/26 09:14:32 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/26 09:14:32 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/26 09:14:32 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/26 09:14:32 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/26 09:14:32 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/26 09:14:32 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/26 16:00:39 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/26 16:00:39 [1;33m[W] [control.go:241] [e845334b9bbed64e] read error: broken pipe[0m
+2018/04/26 16:00:39 [1;34m[I] [control.go:213] [e845334b9bbed64e] control writer is closing[0m
+2018/04/26 16:00:39 [1;34m[I] [proxy.go:71] [e845334b9bbed64e] [vps180rdp] proxy closing[0m
+2018/04/26 16:00:39 [1;34m[I] [proxy.go:117] [e845334b9bbed64e] [vps180rdp] listener is closed[0m
+2018/04/26 16:00:39 [1;34m[I] [control.go:283] [e845334b9bbed64e] client exit success[0m
+2018/04/26 16:01:01 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/26 16:01:01 [1;33m[W] [control.go:241] [1752e62b92e93513] read error: broken pipe[0m
+2018/04/26 16:01:01 [1;34m[I] [control.go:213] [1752e62b92e93513] control writer is closing[0m
+2018/04/26 16:01:01 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [vps80rdp] proxy closing[0m
+2018/04/26 16:01:01 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [vps80rdp] listener is closed[0m
+2018/04/26 16:01:01 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host100] proxy closing[0m
+2018/04/26 16:01:01 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host100] listener is closed[0m
+2018/04/26 16:01:01 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host101] proxy closing[0m
+2018/04/26 16:01:01 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host101] listener is closed[0m
+2018/04/26 16:01:01 [1;34m[I] [control.go:283] [1752e62b92e93513] client exit success[0m
+2018/04/26 16:02:32 [1;34m[I] [service.go:262] client login info: ip [117.89.130.57:34020] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/26 16:02:32 [1;34m[I] [control.go:190] [e845334b9bbed64e] Replaced by client [e845334b9bbed64e][0m
+2018/04/26 16:02:32 [1;34m[I] [proxy.go:201] [e845334b9bbed64e] [vps180rdp] tcp proxy listen port [23389][0m
+2018/04/26 16:02:32 [1;34m[I] [control.go:326] [e845334b9bbed64e] new proxy [vps180rdp] success[0m
+2018/04/26 16:02:38 [1;34m[I] [service.go:262] client login info: ip [117.89.130.57:36570] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/26 16:02:38 [1;34m[I] [control.go:190] [1752e62b92e93513] Replaced by client [1752e62b92e93513][0m
+2018/04/26 16:02:39 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/26 16:02:39 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/26 16:02:39 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/26 16:02:39 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/26 16:02:39 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/26 16:02:39 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/27 14:44:08 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/27 14:44:08 [1;33m[W] [control.go:241] [1752e62b92e93513] read error: broken pipe[0m
+2018/04/27 14:44:08 [1;34m[I] [control.go:213] [1752e62b92e93513] control writer is closing[0m
+2018/04/27 14:44:08 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host101] proxy closing[0m
+2018/04/27 14:44:08 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host101] listener is closed[0m
+2018/04/27 14:44:08 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [vps80rdp] proxy closing[0m
+2018/04/27 14:44:08 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [vps80rdp] listener is closed[0m
+2018/04/27 14:44:08 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host100] proxy closing[0m
+2018/04/27 14:44:08 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host100] listener is closed[0m
+2018/04/27 14:44:08 [1;34m[I] [control.go:283] [1752e62b92e93513] client exit success[0m
+2018/04/27 14:44:21 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/27 14:44:24 [1;34m[I] [service.go:262] client login info: ip [117.89.130.57:37010] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/27 14:44:24 [1;34m[I] [control.go:190] [1752e62b92e93513] Replaced by client [1752e62b92e93513][0m
+2018/04/27 14:44:24 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/27 14:44:24 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/27 14:44:24 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/27 14:44:24 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/27 14:44:25 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/27 14:44:25 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/27 16:00:51 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/27 16:00:51 [1;33m[W] [control.go:241] [1752e62b92e93513] read error: broken pipe[0m
+2018/04/27 16:00:51 [1;34m[I] [control.go:213] [1752e62b92e93513] control writer is closing[0m
+2018/04/27 16:00:51 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host101] proxy closing[0m
+2018/04/27 16:00:51 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host101] listener is closed[0m
+2018/04/27 16:00:51 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [vps80rdp] proxy closing[0m
+2018/04/27 16:00:51 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [vps80rdp] listener is closed[0m
+2018/04/27 16:00:51 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host100] proxy closing[0m
+2018/04/27 16:00:51 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host100] listener is closed[0m
+2018/04/27 16:00:51 [1;34m[I] [control.go:283] [1752e62b92e93513] client exit success[0m
+2018/04/27 16:01:02 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/27 16:01:02 [1;33m[W] [control.go:241] [e845334b9bbed64e] read error: broken pipe[0m
+2018/04/27 16:01:02 [1;34m[I] [control.go:213] [e845334b9bbed64e] control writer is closing[0m
+2018/04/27 16:01:02 [1;34m[I] [proxy.go:71] [e845334b9bbed64e] [vps180rdp] proxy closing[0m
+2018/04/27 16:01:02 [1;34m[I] [proxy.go:117] [e845334b9bbed64e] [vps180rdp] listener is closed[0m
+2018/04/27 16:01:02 [1;34m[I] [control.go:283] [e845334b9bbed64e] client exit success[0m
+2018/04/27 16:02:35 [1;34m[I] [service.go:262] client login info: ip [117.89.132.125:34852] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/27 16:02:35 [1;34m[I] [control.go:190] [e845334b9bbed64e] Replaced by client [e845334b9bbed64e][0m
+2018/04/27 16:02:35 [1;34m[I] [proxy.go:201] [e845334b9bbed64e] [vps180rdp] tcp proxy listen port [23389][0m
+2018/04/27 16:02:35 [1;34m[I] [control.go:326] [e845334b9bbed64e] new proxy [vps180rdp] success[0m
+2018/04/27 16:02:58 [1;34m[I] [service.go:262] client login info: ip [117.89.132.125:37048] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/27 16:02:58 [1;34m[I] [control.go:190] [1752e62b92e93513] Replaced by client [1752e62b92e93513][0m
+2018/04/27 16:02:58 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/27 16:02:58 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/27 16:02:58 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/27 16:02:58 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/27 16:02:58 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/27 16:02:58 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/28 02:35:05 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/28 02:35:05 [1;33m[W] [control.go:241] [e845334b9bbed64e] read error: broken pipe[0m
+2018/04/28 02:35:05 [1;34m[I] [control.go:213] [e845334b9bbed64e] control writer is closing[0m
+2018/04/28 02:35:05 [1;34m[I] [proxy.go:71] [e845334b9bbed64e] [vps180rdp] proxy closing[0m
+2018/04/28 02:35:05 [1;34m[I] [proxy.go:117] [e845334b9bbed64e] [vps180rdp] listener is closed[0m
+2018/04/28 02:35:05 [1;34m[I] [control.go:283] [e845334b9bbed64e] client exit success[0m
+2018/04/28 02:35:28 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/28 02:35:28 [1;33m[W] [control.go:241] [1752e62b92e93513] read error: broken pipe[0m
+2018/04/28 02:35:28 [1;34m[I] [control.go:213] [1752e62b92e93513] control writer is closing[0m
+2018/04/28 02:35:28 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [vps80rdp] proxy closing[0m
+2018/04/28 02:35:28 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [vps80rdp] listener is closed[0m
+2018/04/28 02:35:28 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host100] proxy closing[0m
+2018/04/28 02:35:28 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host100] listener is closed[0m
+2018/04/28 02:35:28 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host101] proxy closing[0m
+2018/04/28 02:35:28 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host101] listener is closed[0m
+2018/04/28 02:35:28 [1;34m[I] [control.go:283] [1752e62b92e93513] client exit success[0m
+2018/04/28 02:35:33 [1;34m[I] [service.go:262] client login info: ip [117.89.132.125:37254] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/28 02:35:33 [1;34m[I] [control.go:190] [1752e62b92e93513] Replaced by client [1752e62b92e93513][0m
+2018/04/28 02:35:33 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/28 02:35:33 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/28 02:35:33 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/28 02:35:33 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/28 02:35:33 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/28 02:35:33 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/28 02:35:36 [1;34m[I] [service.go:262] client login info: ip [117.89.132.125:35116] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/28 02:35:36 [1;34m[I] [control.go:190] [e845334b9bbed64e] Replaced by client [e845334b9bbed64e][0m
+2018/04/28 02:35:36 [1;34m[I] [proxy.go:201] [e845334b9bbed64e] [vps180rdp] tcp proxy listen port [23389][0m
+2018/04/28 02:35:36 [1;34m[I] [control.go:326] [e845334b9bbed64e] new proxy [vps180rdp] success[0m
+2018/04/28 02:36:33 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/28 02:36:33 [1;33m[W] [control.go:241] [1752e62b92e93513] read error: broken pipe[0m
+2018/04/28 02:36:33 [1;34m[I] [control.go:213] [1752e62b92e93513] control writer is closing[0m
+2018/04/28 02:36:33 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [vps80rdp] proxy closing[0m
+2018/04/28 02:36:33 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [vps80rdp] listener is closed[0m
+2018/04/28 02:36:33 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host100] proxy closing[0m
+2018/04/28 02:36:33 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host100] listener is closed[0m
+2018/04/28 02:36:33 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host101] proxy closing[0m
+2018/04/28 02:36:33 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host101] listener is closed[0m
+2018/04/28 02:36:33 [1;34m[I] [control.go:283] [1752e62b92e93513] client exit success[0m
+2018/04/28 02:36:36 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/28 02:36:36 [1;33m[W] [control.go:241] [e845334b9bbed64e] read error: broken pipe[0m
+2018/04/28 02:36:36 [1;34m[I] [control.go:213] [e845334b9bbed64e] control writer is closing[0m
+2018/04/28 02:36:36 [1;34m[I] [proxy.go:71] [e845334b9bbed64e] [vps180rdp] proxy closing[0m
+2018/04/28 02:36:36 [1;34m[I] [proxy.go:117] [e845334b9bbed64e] [vps180rdp] listener is closed[0m
+2018/04/28 02:36:36 [1;34m[I] [control.go:283] [e845334b9bbed64e] client exit success[0m
+2018/04/28 02:37:36 [1;34m[I] [service.go:262] client login info: ip [117.89.132.125:37256] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/28 02:37:36 [1;34m[I] [control.go:190] [1752e62b92e93513] Replaced by client [1752e62b92e93513][0m
+2018/04/28 02:37:37 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/28 02:37:37 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/28 02:37:37 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/28 02:37:37 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/28 02:37:37 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/28 02:37:37 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/28 02:37:39 [1;34m[I] [service.go:262] client login info: ip [117.89.132.125:35118] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/28 02:37:39 [1;34m[I] [control.go:190] [e845334b9bbed64e] Replaced by client [e845334b9bbed64e][0m
+2018/04/28 02:37:40 [1;34m[I] [proxy.go:201] [e845334b9bbed64e] [vps180rdp] tcp proxy listen port [23389][0m
+2018/04/28 02:37:40 [1;34m[I] [control.go:326] [e845334b9bbed64e] new proxy [vps180rdp] success[0m
+2018/04/28 02:39:36 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/28 02:39:36 [1;33m[W] [control.go:241] [1752e62b92e93513] read error: broken pipe[0m
+2018/04/28 02:39:36 [1;34m[I] [control.go:213] [1752e62b92e93513] control writer is closing[0m
+2018/04/28 02:39:36 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [vps80rdp] proxy closing[0m
+2018/04/28 02:39:36 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [vps80rdp] listener is closed[0m
+2018/04/28 02:39:36 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host100] proxy closing[0m
+2018/04/28 02:39:36 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host100] listener is closed[0m
+2018/04/28 02:39:36 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host101] proxy closing[0m
+2018/04/28 02:39:36 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host101] listener is closed[0m
+2018/04/28 02:39:36 [1;34m[I] [control.go:283] [1752e62b92e93513] client exit success[0m
+2018/04/28 02:39:53 [1;34m[I] [service.go:262] client login info: ip [117.89.132.125:37260] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/28 02:39:53 [1;34m[I] [control.go:190] [1752e62b92e93513] Replaced by client [1752e62b92e93513][0m
+2018/04/28 02:39:58 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/28 02:39:58 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/28 02:39:58 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/28 02:39:58 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/28 02:39:58 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/28 02:39:58 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/28 02:40:09 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/28 02:40:09 [1;33m[W] [control.go:241] [e845334b9bbed64e] read error: broken pipe[0m
+2018/04/28 02:40:09 [1;34m[I] [control.go:213] [e845334b9bbed64e] control writer is closing[0m
+2018/04/28 02:40:09 [1;34m[I] [proxy.go:71] [e845334b9bbed64e] [vps180rdp] proxy closing[0m
+2018/04/28 02:40:09 [1;34m[I] [proxy.go:117] [e845334b9bbed64e] [vps180rdp] listener is closed[0m
+2018/04/28 02:40:09 [1;34m[I] [control.go:283] [e845334b9bbed64e] client exit success[0m
+2018/04/28 02:40:11 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/28 02:40:22 [1;34m[I] [service.go:262] client login info: ip [117.89.132.125:35124] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/28 02:40:22 [1;34m[I] [control.go:190] [e845334b9bbed64e] Replaced by client [e845334b9bbed64e][0m
+2018/04/28 02:40:22 [1;34m[I] [proxy.go:201] [e845334b9bbed64e] [vps180rdp] tcp proxy listen port [23389][0m
+2018/04/28 02:40:22 [1;34m[I] [control.go:326] [e845334b9bbed64e] new proxy [vps180rdp] success[0m
+2018/04/28 02:40:28 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/28 02:47:52 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/28 02:47:52 [1;33m[W] [control.go:241] [e845334b9bbed64e] read error: broken pipe[0m
+2018/04/28 02:47:52 [1;34m[I] [control.go:213] [e845334b9bbed64e] control writer is closing[0m
+2018/04/28 02:47:52 [1;34m[I] [proxy.go:71] [e845334b9bbed64e] [vps180rdp] proxy closing[0m
+2018/04/28 02:47:52 [1;34m[I] [proxy.go:117] [e845334b9bbed64e] [vps180rdp] listener is closed[0m
+2018/04/28 02:47:52 [1;34m[I] [control.go:283] [e845334b9bbed64e] client exit success[0m
+2018/04/28 02:48:06 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/28 02:48:23 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/28 02:48:23 [1;33m[W] [control.go:241] [1752e62b92e93513] read error: broken pipe[0m
+2018/04/28 02:48:23 [1;34m[I] [control.go:213] [1752e62b92e93513] control writer is closing[0m
+2018/04/28 02:48:23 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host101] proxy closing[0m
+2018/04/28 02:48:23 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host101] listener is closed[0m
+2018/04/28 02:48:23 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [vps80rdp] proxy closing[0m
+2018/04/28 02:48:23 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [vps80rdp] listener is closed[0m
+2018/04/28 02:48:23 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host100] proxy closing[0m
+2018/04/28 02:48:23 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host100] listener is closed[0m
+2018/04/28 02:48:23 [1;34m[I] [control.go:283] [1752e62b92e93513] client exit success[0m
+2018/04/28 02:48:33 [1;34m[I] [service.go:262] client login info: ip [117.89.132.125:35132] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/28 02:48:33 [1;34m[I] [control.go:190] [e845334b9bbed64e] Replaced by client [e845334b9bbed64e][0m
+2018/04/28 02:48:37 [1;34m[I] [proxy.go:201] [e845334b9bbed64e] [vps180rdp] tcp proxy listen port [23389][0m
+2018/04/28 02:48:37 [1;34m[I] [control.go:326] [e845334b9bbed64e] new proxy [vps180rdp] success[0m
+2018/04/28 02:48:37 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/28 02:48:39 [1;34m[I] [service.go:262] client login info: ip [117.89.132.125:37268] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/28 02:48:39 [1;34m[I] [control.go:190] [1752e62b92e93513] Replaced by client [1752e62b92e93513][0m
+2018/04/28 02:48:39 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/28 02:48:39 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/28 02:48:39 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/28 02:48:39 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/28 02:48:39 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/28 02:48:39 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/28 02:48:42 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/28 03:37:33 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/28 03:37:33 [1;33m[W] [control.go:241] [e845334b9bbed64e] read error: broken pipe[0m
+2018/04/28 03:37:33 [1;34m[I] [control.go:213] [e845334b9bbed64e] control writer is closing[0m
+2018/04/28 03:37:33 [1;34m[I] [proxy.go:71] [e845334b9bbed64e] [vps180rdp] proxy closing[0m
+2018/04/28 03:37:33 [1;34m[I] [proxy.go:117] [e845334b9bbed64e] [vps180rdp] listener is closed[0m
+2018/04/28 03:37:33 [1;34m[I] [control.go:283] [e845334b9bbed64e] client exit success[0m
+2018/04/28 03:37:33 [1;34m[I] [service.go:262] client login info: ip [117.89.132.125:35154] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/28 03:37:33 [1;34m[I] [control.go:190] [e845334b9bbed64e] Replaced by client [e845334b9bbed64e][0m
+2018/04/28 03:37:33 [1;34m[I] [proxy.go:201] [e845334b9bbed64e] [vps180rdp] tcp proxy listen port [23389][0m
+2018/04/28 03:37:33 [1;34m[I] [control.go:326] [e845334b9bbed64e] new proxy [vps180rdp] success[0m
+2018/04/28 03:37:39 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/28 03:37:39 [1;33m[W] [control.go:241] [1752e62b92e93513] read error: broken pipe[0m
+2018/04/28 03:37:39 [1;34m[I] [control.go:213] [1752e62b92e93513] control writer is closing[0m
+2018/04/28 03:37:39 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [vps80rdp] proxy closing[0m
+2018/04/28 03:37:39 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [vps80rdp] listener is closed[0m
+2018/04/28 03:37:39 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host100] proxy closing[0m
+2018/04/28 03:37:39 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host100] listener is closed[0m
+2018/04/28 03:37:39 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host101] proxy closing[0m
+2018/04/28 03:37:39 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host101] listener is closed[0m
+2018/04/28 03:37:39 [1;34m[I] [control.go:283] [1752e62b92e93513] client exit success[0m
+2018/04/28 03:37:39 [1;34m[I] [service.go:262] client login info: ip [117.89.132.125:37286] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/28 03:37:39 [1;34m[I] [control.go:190] [1752e62b92e93513] Replaced by client [1752e62b92e93513][0m
+2018/04/28 03:37:39 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/28 03:37:39 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/28 03:37:39 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/28 03:37:39 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/28 03:37:39 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/28 03:37:39 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/28 16:00:39 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/28 16:00:39 [1;33m[W] [control.go:241] [1752e62b92e93513] read error: broken pipe[0m
+2018/04/28 16:00:39 [1;34m[I] [control.go:213] [1752e62b92e93513] control writer is closing[0m
+2018/04/28 16:00:39 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [vps80rdp] proxy closing[0m
+2018/04/28 16:00:39 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [vps80rdp] listener is closed[0m
+2018/04/28 16:00:39 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host100] proxy closing[0m
+2018/04/28 16:00:39 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host100] listener is closed[0m
+2018/04/28 16:00:39 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host101] proxy closing[0m
+2018/04/28 16:00:39 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host101] listener is closed[0m
+2018/04/28 16:00:39 [1;34m[I] [control.go:283] [1752e62b92e93513] client exit success[0m
+2018/04/28 16:01:03 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/28 16:01:03 [1;33m[W] [control.go:241] [e845334b9bbed64e] read error: broken pipe[0m
+2018/04/28 16:01:03 [1;34m[I] [control.go:213] [e845334b9bbed64e] control writer is closing[0m
+2018/04/28 16:01:03 [1;34m[I] [proxy.go:71] [e845334b9bbed64e] [vps180rdp] proxy closing[0m
+2018/04/28 16:01:03 [1;34m[I] [proxy.go:117] [e845334b9bbed64e] [vps180rdp] listener is closed[0m
+2018/04/28 16:01:03 [1;34m[I] [control.go:283] [e845334b9bbed64e] client exit success[0m
+2018/04/28 16:02:36 [1;34m[I] [service.go:262] client login info: ip [180.109.160.150:35486] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/28 16:02:36 [1;34m[I] [control.go:190] [e845334b9bbed64e] Replaced by client [e845334b9bbed64e][0m
+2018/04/28 16:02:36 [1;34m[I] [proxy.go:201] [e845334b9bbed64e] [vps180rdp] tcp proxy listen port [23389][0m
+2018/04/28 16:02:36 [1;34m[I] [control.go:326] [e845334b9bbed64e] new proxy [vps180rdp] success[0m
+2018/04/28 16:02:39 [1;34m[I] [service.go:262] client login info: ip [180.109.160.150:37542] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/28 16:02:39 [1;34m[I] [control.go:190] [1752e62b92e93513] Replaced by client [1752e62b92e93513][0m
+2018/04/28 16:02:40 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/28 16:02:40 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/28 16:02:40 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/28 16:02:40 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/28 16:02:40 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/28 16:02:40 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/29 16:00:36 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/29 16:00:36 [1;33m[W] [control.go:241] [e845334b9bbed64e] read error: broken pipe[0m
+2018/04/29 16:00:36 [1;34m[I] [control.go:213] [e845334b9bbed64e] control writer is closing[0m
+2018/04/29 16:00:36 [1;34m[I] [proxy.go:71] [e845334b9bbed64e] [vps180rdp] proxy closing[0m
+2018/04/29 16:00:36 [1;34m[I] [proxy.go:117] [e845334b9bbed64e] [vps180rdp] listener is closed[0m
+2018/04/29 16:00:36 [1;34m[I] [control.go:283] [e845334b9bbed64e] client exit success[0m
+2018/04/29 16:00:39 [1;33m[W] [service.go:247] Accept new mux stream error: broken pipe[0m
+2018/04/29 16:00:39 [1;33m[W] [control.go:241] [1752e62b92e93513] read error: broken pipe[0m
+2018/04/29 16:00:39 [1;34m[I] [control.go:213] [1752e62b92e93513] control writer is closing[0m
+2018/04/29 16:00:39 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host101] proxy closing[0m
+2018/04/29 16:00:39 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host101] listener is closed[0m
+2018/04/29 16:00:39 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [vps80rdp] proxy closing[0m
+2018/04/29 16:00:39 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [vps80rdp] listener is closed[0m
+2018/04/29 16:00:39 [1;34m[I] [proxy.go:71] [1752e62b92e93513] [host100] proxy closing[0m
+2018/04/29 16:00:39 [1;34m[I] [proxy.go:117] [1752e62b92e93513] [host100] listener is closed[0m
+2018/04/29 16:00:39 [1;34m[I] [control.go:283] [1752e62b92e93513] client exit success[0m
+2018/04/29 16:02:33 [1;34m[I] [service.go:262] client login info: ip [180.109.160.24:38018] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/29 16:02:33 [1;34m[I] [control.go:190] [1752e62b92e93513] Replaced by client [1752e62b92e93513][0m
+2018/04/29 16:02:33 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host101] tcp proxy listen port [20022][0m
+2018/04/29 16:02:33 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host101] success[0m
+2018/04/29 16:02:33 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [vps80rdp] tcp proxy listen port [13389][0m
+2018/04/29 16:02:33 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [vps80rdp] success[0m
+2018/04/29 16:02:33 [1;34m[I] [proxy.go:201] [1752e62b92e93513] [host100] tcp proxy listen port [10022][0m
+2018/04/29 16:02:33 [1;34m[I] [control.go:326] [1752e62b92e93513] new proxy [host100] success[0m
+2018/04/29 16:02:42 [1;34m[I] [service.go:262] client login info: ip [180.109.160.24:36106] version [0.16.1] hostname [] os [linux] arch [amd64][0m
+2018/04/29 16:02:42 [1;34m[I] [control.go:190] [e845334b9bbed64e] Replaced by client [e845334b9bbed64e][0m
+2018/04/29 16:02:42 [1;34m[I] [proxy.go:201] [e845334b9bbed64e] [vps180rdp] tcp proxy listen port [23389][0m
+2018/04/29 16:02:42 [1;34m[I] [control.go:326] [e845334b9bbed64e] new proxy [vps180rdp] success[0m
