@@ -1,15 +1,11 @@
 # config smb
-#SMB_DIR="/var/lib/nova/datadisk/sdb/smbshare"
-#SMB_DIR=$DATADISK_DIR/smbshare
 SMB_CFG_FILE_SECTION="smb"
 SMB_CFG_FILE="/etc/samba/smb.conf"
 
 # 1 config smb
 function config_smb()
 {
-    sudo mkdir $SMB_DIR
     sudo chmod o+w $SMB_DIR
-
     if [ -z "`cat $SMB_CFG_FILE |grep $SMB_DIR`" ]; then
         if [ -z "`cat $SMB_CFG_FILE |grep 'map to guest = bad user'`" ]; then
             sed -i '/^\[global\]$/a map to guest = bad user' $SMB_CFG_FILE
@@ -31,9 +27,11 @@ EOF
 }
 
 # main
-if [ -z $SMB_DIR ]; then
+if [ -z $1 ]; then
     echo "smb dir: $SMB_DIR does not exist."
     exit -1
+else
+    SMB_DIR=$1
 fi
 
 sudo yum -y install samba samba-client
